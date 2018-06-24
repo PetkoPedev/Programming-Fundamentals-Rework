@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P11-5DifferentNumbers\bin\Debug\netcoreapp2.0\P11-5DifferentNumbers.deps.json
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P11-5DifferentNumbers\bin\Debug\netcoreapp2.0\P11-5DifferentNumbers.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P11-5DifferentNumbers\bin\Debug\netcoreapp2.0\P11-5DifferentNumbers.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P11-5DifferentNumbers\bin\Debug\netcoreapp2.0\P11-5DifferentNumbers.dll
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P11-5DifferentNumbers\bin\Debug\netcoreapp2.0\P11-5DifferentNumbers.pdb
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P11-5DifferentNumbers\obj\Debug\netcoreapp2.0\P11-5DifferentNumbers.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P11-5DifferentNumbers\obj\Debug\netcoreapp2.0\P11-5DifferentNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P11-5DifferentNumbers\obj\Debug\netcoreapp2.0\P11-5DifferentNumbers.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P11-5DifferentNumbers\obj\Debug\netcoreapp2.0\P11-5DifferentNumbers.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P11-5DifferentNumbers\obj\Debug\netcoreapp2.0\P11-5DifferentNumbers.dll
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P11-5DifferentNumbers\obj\Debug\netcoreapp2.0\P11-5DifferentNumbers.pdb

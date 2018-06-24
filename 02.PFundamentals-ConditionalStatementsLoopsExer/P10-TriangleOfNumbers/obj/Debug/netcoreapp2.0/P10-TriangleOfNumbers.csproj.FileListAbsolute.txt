@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P10-TriangleOfNumbers\bin\Debug\netcoreapp2.0\P10-TriangleOfNumbers.deps.json
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P10-TriangleOfNumbers\bin\Debug\netcoreapp2.0\P10-TriangleOfNumbers.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P10-TriangleOfNumbers\bin\Debug\netcoreapp2.0\P10-TriangleOfNumbers.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P10-TriangleOfNumbers\bin\Debug\netcoreapp2.0\P10-TriangleOfNumbers.dll
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P10-TriangleOfNumbers\bin\Debug\netcoreapp2.0\P10-TriangleOfNumbers.pdb
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P10-TriangleOfNumbers\obj\Debug\netcoreapp2.0\P10-TriangleOfNumbers.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P10-TriangleOfNumbers\obj\Debug\netcoreapp2.0\P10-TriangleOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P10-TriangleOfNumbers\obj\Debug\netcoreapp2.0\P10-TriangleOfNumbers.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P10-TriangleOfNumbers\obj\Debug\netcoreapp2.0\P10-TriangleOfNumbers.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P10-TriangleOfNumbers\obj\Debug\netcoreapp2.0\P10-TriangleOfNumbers.dll
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P10-TriangleOfNumbers\obj\Debug\netcoreapp2.0\P10-TriangleOfNumbers.pdb

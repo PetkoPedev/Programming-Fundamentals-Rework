@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P01-ChooseADrink\bin\Debug\netcoreapp2.0\P01-ChooseADrink.deps.json
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P01-ChooseADrink\bin\Debug\netcoreapp2.0\P01-ChooseADrink.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P01-ChooseADrink\bin\Debug\netcoreapp2.0\P01-ChooseADrink.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P01-ChooseADrink\bin\Debug\netcoreapp2.0\P01-ChooseADrink.dll
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P01-ChooseADrink\bin\Debug\netcoreapp2.0\P01-ChooseADrink.pdb
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P01-ChooseADrink\obj\Debug\netcoreapp2.0\P01-ChooseADrink.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P01-ChooseADrink\obj\Debug\netcoreapp2.0\P01-ChooseADrink.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P01-ChooseADrink\obj\Debug\netcoreapp2.0\P01-ChooseADrink.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P01-ChooseADrink\obj\Debug\netcoreapp2.0\P01-ChooseADrink.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P01-ChooseADrink\obj\Debug\netcoreapp2.0\P01-ChooseADrink.dll
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P01-ChooseADrink\obj\Debug\netcoreapp2.0\P01-ChooseADrink.pdb

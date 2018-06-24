@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P12-NumberChecker\bin\Debug\netcoreapp2.0\P12-NumberChecker.deps.json
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P12-NumberChecker\bin\Debug\netcoreapp2.0\P12-NumberChecker.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P12-NumberChecker\bin\Debug\netcoreapp2.0\P12-NumberChecker.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P12-NumberChecker\bin\Debug\netcoreapp2.0\P12-NumberChecker.dll
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P12-NumberChecker\bin\Debug\netcoreapp2.0\P12-NumberChecker.pdb
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P12-NumberChecker\obj\Debug\netcoreapp2.0\P12-NumberChecker.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P12-NumberChecker\obj\Debug\netcoreapp2.0\P12-NumberChecker.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P12-NumberChecker\obj\Debug\netcoreapp2.0\P12-NumberChecker.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P12-NumberChecker\obj\Debug\netcoreapp2.0\P12-NumberChecker.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P12-NumberChecker\obj\Debug\netcoreapp2.0\P12-NumberChecker.dll
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P12-NumberChecker\obj\Debug\netcoreapp2.0\P12-NumberChecker.pdb

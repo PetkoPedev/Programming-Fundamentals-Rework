@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P06-IntervalOfNumbers\bin\Debug\netcoreapp2.0\P06-IntervalOfNumbers.deps.json
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P06-IntervalOfNumbers\bin\Debug\netcoreapp2.0\P06-IntervalOfNumbers.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P06-IntervalOfNumbers\bin\Debug\netcoreapp2.0\P06-IntervalOfNumbers.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P06-IntervalOfNumbers\bin\Debug\netcoreapp2.0\P06-IntervalOfNumbers.dll
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P06-IntervalOfNumbers\bin\Debug\netcoreapp2.0\P06-IntervalOfNumbers.pdb
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P06-IntervalOfNumbers\obj\Debug\netcoreapp2.0\P06-IntervalOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P06-IntervalOfNumbers\obj\Debug\netcoreapp2.0\P06-IntervalOfNumbers.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P06-IntervalOfNumbers\obj\Debug\netcoreapp2.0\P06-IntervalOfNumbers.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P06-IntervalOfNumbers\obj\Debug\netcoreapp2.0\P06-IntervalOfNumbers.dll
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P06-IntervalOfNumbers\obj\Debug\netcoreapp2.0\P06-IntervalOfNumbers.pdb

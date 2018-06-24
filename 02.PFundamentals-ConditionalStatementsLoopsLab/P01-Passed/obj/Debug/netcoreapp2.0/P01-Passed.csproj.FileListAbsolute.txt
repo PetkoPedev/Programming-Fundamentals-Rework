@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P01-Passed\bin\Debug\netcoreapp2.0\P01-Passed.deps.json
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P01-Passed\bin\Debug\netcoreapp2.0\P01-Passed.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P01-Passed\bin\Debug\netcoreapp2.0\P01-Passed.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P01-Passed\bin\Debug\netcoreapp2.0\P01-Passed.dll
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P01-Passed\bin\Debug\netcoreapp2.0\P01-Passed.pdb
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P01-Passed\obj\Debug\netcoreapp2.0\P01-Passed.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P01-Passed\obj\Debug\netcoreapp2.0\P01-Passed.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P01-Passed\obj\Debug\netcoreapp2.0\P01-Passed.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P01-Passed\obj\Debug\netcoreapp2.0\P01-Passed.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P01-Passed\obj\Debug\netcoreapp2.0\P01-Passed.dll
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P01-Passed\obj\Debug\netcoreapp2.0\P01-Passed.pdb

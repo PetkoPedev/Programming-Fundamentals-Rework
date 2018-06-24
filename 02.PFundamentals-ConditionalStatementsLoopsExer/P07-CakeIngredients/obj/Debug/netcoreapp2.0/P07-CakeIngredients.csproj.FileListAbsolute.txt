@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P07-CakeIngredients\bin\Debug\netcoreapp2.0\P07-CakeIngredients.deps.json
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P07-CakeIngredients\bin\Debug\netcoreapp2.0\P07-CakeIngredients.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P07-CakeIngredients\bin\Debug\netcoreapp2.0\P07-CakeIngredients.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P07-CakeIngredients\bin\Debug\netcoreapp2.0\P07-CakeIngredients.dll
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P07-CakeIngredients\bin\Debug\netcoreapp2.0\P07-CakeIngredients.pdb
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P07-CakeIngredients\obj\Debug\netcoreapp2.0\P07-CakeIngredients.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P07-CakeIngredients\obj\Debug\netcoreapp2.0\P07-CakeIngredients.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P07-CakeIngredients\obj\Debug\netcoreapp2.0\P07-CakeIngredients.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P07-CakeIngredients\obj\Debug\netcoreapp2.0\P07-CakeIngredients.dll
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P07-CakeIngredients\obj\Debug\netcoreapp2.0\P07-CakeIngredients.pdb

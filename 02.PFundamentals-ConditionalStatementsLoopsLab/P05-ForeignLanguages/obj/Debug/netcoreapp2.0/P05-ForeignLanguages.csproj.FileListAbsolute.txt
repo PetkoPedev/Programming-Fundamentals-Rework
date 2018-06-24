@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P05-ForeignLanguages\bin\Debug\netcoreapp2.0\P05-ForeignLanguages.deps.json
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P05-ForeignLanguages\bin\Debug\netcoreapp2.0\P05-ForeignLanguages.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P05-ForeignLanguages\bin\Debug\netcoreapp2.0\P05-ForeignLanguages.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P05-ForeignLanguages\bin\Debug\netcoreapp2.0\P05-ForeignLanguages.dll
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P05-ForeignLanguages\bin\Debug\netcoreapp2.0\P05-ForeignLanguages.pdb
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P05-ForeignLanguages\obj\Debug\netcoreapp2.0\P05-ForeignLanguages.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P05-ForeignLanguages\obj\Debug\netcoreapp2.0\P05-ForeignLanguages.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P05-ForeignLanguages\obj\Debug\netcoreapp2.0\P05-ForeignLanguages.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P05-ForeignLanguages\obj\Debug\netcoreapp2.0\P05-ForeignLanguages.dll
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P05-ForeignLanguages\obj\Debug\netcoreapp2.0\P05-ForeignLanguages.pdb

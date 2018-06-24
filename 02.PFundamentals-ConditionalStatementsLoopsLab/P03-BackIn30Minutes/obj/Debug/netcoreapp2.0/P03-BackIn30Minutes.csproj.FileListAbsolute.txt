@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P03-BackIn30Minutes\bin\Debug\netcoreapp2.0\P03-BackIn30Minutes.deps.json
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P03-BackIn30Minutes\bin\Debug\netcoreapp2.0\P03-BackIn30Minutes.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P03-BackIn30Minutes\bin\Debug\netcoreapp2.0\P03-BackIn30Minutes.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P03-BackIn30Minutes\bin\Debug\netcoreapp2.0\P03-BackIn30Minutes.dll
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P03-BackIn30Minutes\bin\Debug\netcoreapp2.0\P03-BackIn30Minutes.pdb
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P03-BackIn30Minutes\obj\Debug\netcoreapp2.0\P03-BackIn30Minutes.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P03-BackIn30Minutes\obj\Debug\netcoreapp2.0\P03-BackIn30Minutes.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P03-BackIn30Minutes\obj\Debug\netcoreapp2.0\P03-BackIn30Minutes.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P03-BackIn30Minutes\obj\Debug\netcoreapp2.0\P03-BackIn30Minutes.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P03-BackIn30Minutes\obj\Debug\netcoreapp2.0\P03-BackIn30Minutes.dll
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P03-BackIn30Minutes\obj\Debug\netcoreapp2.0\P03-BackIn30Minutes.pdb

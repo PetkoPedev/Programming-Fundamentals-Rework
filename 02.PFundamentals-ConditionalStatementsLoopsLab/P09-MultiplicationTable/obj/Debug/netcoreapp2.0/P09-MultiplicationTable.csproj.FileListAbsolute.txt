@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P09-MultiplicationTable\bin\Debug\netcoreapp2.0\P09-MultiplicationTable.deps.json
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P09-MultiplicationTable\bin\Debug\netcoreapp2.0\P09-MultiplicationTable.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P09-MultiplicationTable\bin\Debug\netcoreapp2.0\P09-MultiplicationTable.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P09-MultiplicationTable\bin\Debug\netcoreapp2.0\P09-MultiplicationTable.dll
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P09-MultiplicationTable\bin\Debug\netcoreapp2.0\P09-MultiplicationTable.pdb
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P09-MultiplicationTable\obj\Debug\netcoreapp2.0\P09-MultiplicationTable.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P09-MultiplicationTable\obj\Debug\netcoreapp2.0\P09-MultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P09-MultiplicationTable\obj\Debug\netcoreapp2.0\P09-MultiplicationTable.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P09-MultiplicationTable\obj\Debug\netcoreapp2.0\P09-MultiplicationTable.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P09-MultiplicationTable\obj\Debug\netcoreapp2.0\P09-MultiplicationTable.dll
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P09-MultiplicationTable\obj\Debug\netcoreapp2.0\P09-MultiplicationTable.pdb

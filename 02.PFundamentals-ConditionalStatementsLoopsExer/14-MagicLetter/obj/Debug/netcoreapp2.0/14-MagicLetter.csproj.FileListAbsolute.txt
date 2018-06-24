@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\14-MagicLetter\bin\Debug\netcoreapp2.0\14-MagicLetter.deps.json
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\14-MagicLetter\bin\Debug\netcoreapp2.0\14-MagicLetter.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\14-MagicLetter\bin\Debug\netcoreapp2.0\14-MagicLetter.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\14-MagicLetter\bin\Debug\netcoreapp2.0\14-MagicLetter.dll
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\14-MagicLetter\bin\Debug\netcoreapp2.0\14-MagicLetter.pdb
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\14-MagicLetter\obj\Debug\netcoreapp2.0\14-MagicLetter.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\14-MagicLetter\obj\Debug\netcoreapp2.0\14-MagicLetter.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\14-MagicLetter\obj\Debug\netcoreapp2.0\14-MagicLetter.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\14-MagicLetter\obj\Debug\netcoreapp2.0\14-MagicLetter.dll
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\14-MagicLetter\obj\Debug\netcoreapp2.0\14-MagicLetter.pdb

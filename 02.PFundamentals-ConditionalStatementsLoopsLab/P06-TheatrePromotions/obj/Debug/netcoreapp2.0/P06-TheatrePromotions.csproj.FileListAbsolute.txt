@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P06-TheatrePromotions\bin\Debug\netcoreapp2.0\P06-TheatrePromotions.deps.json
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P06-TheatrePromotions\bin\Debug\netcoreapp2.0\P06-TheatrePromotions.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P06-TheatrePromotions\bin\Debug\netcoreapp2.0\P06-TheatrePromotions.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P06-TheatrePromotions\bin\Debug\netcoreapp2.0\P06-TheatrePromotions.dll
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P06-TheatrePromotions\bin\Debug\netcoreapp2.0\P06-TheatrePromotions.pdb
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P06-TheatrePromotions\obj\Debug\netcoreapp2.0\P06-TheatrePromotions.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P06-TheatrePromotions\obj\Debug\netcoreapp2.0\P06-TheatrePromotions.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P06-TheatrePromotions\obj\Debug\netcoreapp2.0\P06-TheatrePromotions.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P06-TheatrePromotions\obj\Debug\netcoreapp2.0\P06-TheatrePromotions.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P06-TheatrePromotions\obj\Debug\netcoreapp2.0\P06-TheatrePromotions.dll
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsLab\P06-TheatrePromotions\obj\Debug\netcoreapp2.0\P06-TheatrePromotions.pdb

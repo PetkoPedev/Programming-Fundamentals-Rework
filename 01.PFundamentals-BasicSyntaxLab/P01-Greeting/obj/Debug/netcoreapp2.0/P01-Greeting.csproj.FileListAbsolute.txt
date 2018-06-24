@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxLab\P01-Greeting\bin\Debug\netcoreapp2.0\P01-Greeting.deps.json
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxLab\P01-Greeting\bin\Debug\netcoreapp2.0\P01-Greeting.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxLab\P01-Greeting\bin\Debug\netcoreapp2.0\P01-Greeting.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxLab\P01-Greeting\bin\Debug\netcoreapp2.0\P01-Greeting.dll
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxLab\P01-Greeting\bin\Debug\netcoreapp2.0\P01-Greeting.pdb
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxLab\P01-Greeting\obj\Debug\netcoreapp2.0\P01-Greeting.csprojResolveAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxLab\P01-Greeting\obj\Debug\netcoreapp2.0\P01-Greeting.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxLab\P01-Greeting\obj\Debug\netcoreapp2.0\P01-Greeting.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxLab\P01-Greeting\obj\Debug\netcoreapp2.0\P01-Greeting.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxLab\P01-Greeting\obj\Debug\netcoreapp2.0\P01-Greeting.dll
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxLab\P01-Greeting\obj\Debug\netcoreapp2.0\P01-Greeting.pdb

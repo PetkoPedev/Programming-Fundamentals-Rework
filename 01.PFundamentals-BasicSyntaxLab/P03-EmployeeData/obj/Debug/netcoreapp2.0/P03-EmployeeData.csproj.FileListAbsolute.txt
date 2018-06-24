@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxLab\P03-EmployeeData\bin\Debug\netcoreapp2.0\P03-EmployeeData.deps.json
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxLab\P03-EmployeeData\bin\Debug\netcoreapp2.0\P03-EmployeeData.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxLab\P03-EmployeeData\bin\Debug\netcoreapp2.0\P03-EmployeeData.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxLab\P03-EmployeeData\bin\Debug\netcoreapp2.0\P03-EmployeeData.dll
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxLab\P03-EmployeeData\bin\Debug\netcoreapp2.0\P03-EmployeeData.pdb
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxLab\P03-EmployeeData\obj\Debug\netcoreapp2.0\P03-EmployeeData.csprojResolveAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxLab\P03-EmployeeData\obj\Debug\netcoreapp2.0\P03-EmployeeData.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxLab\P03-EmployeeData\obj\Debug\netcoreapp2.0\P03-EmployeeData.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxLab\P03-EmployeeData\obj\Debug\netcoreapp2.0\P03-EmployeeData.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxLab\P03-EmployeeData\obj\Debug\netcoreapp2.0\P03-EmployeeData.dll
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxLab\P03-EmployeeData\obj\Debug\netcoreapp2.0\P03-EmployeeData.pdb

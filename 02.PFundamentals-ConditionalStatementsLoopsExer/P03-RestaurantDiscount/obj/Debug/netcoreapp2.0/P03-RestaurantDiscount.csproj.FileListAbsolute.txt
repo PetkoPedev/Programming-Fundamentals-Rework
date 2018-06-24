@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P03-RestaurantDiscount\bin\Debug\netcoreapp2.0\P03-RestaurantDiscount.deps.json
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P03-RestaurantDiscount\bin\Debug\netcoreapp2.0\P03-RestaurantDiscount.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P03-RestaurantDiscount\bin\Debug\netcoreapp2.0\P03-RestaurantDiscount.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P03-RestaurantDiscount\bin\Debug\netcoreapp2.0\P03-RestaurantDiscount.dll
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P03-RestaurantDiscount\bin\Debug\netcoreapp2.0\P03-RestaurantDiscount.pdb
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P03-RestaurantDiscount\obj\Debug\netcoreapp2.0\P03-RestaurantDiscount.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P03-RestaurantDiscount\obj\Debug\netcoreapp2.0\P03-RestaurantDiscount.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P03-RestaurantDiscount\obj\Debug\netcoreapp2.0\P03-RestaurantDiscount.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P03-RestaurantDiscount\obj\Debug\netcoreapp2.0\P03-RestaurantDiscount.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P03-RestaurantDiscount\obj\Debug\netcoreapp2.0\P03-RestaurantDiscount.dll
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P03-RestaurantDiscount\obj\Debug\netcoreapp2.0\P03-RestaurantDiscount.pdb

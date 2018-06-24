@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P04-Hotel\bin\Debug\netcoreapp2.0\P04-Hotel.deps.json
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P04-Hotel\bin\Debug\netcoreapp2.0\P04-Hotel.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P04-Hotel\bin\Debug\netcoreapp2.0\P04-Hotel.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P04-Hotel\bin\Debug\netcoreapp2.0\P04-Hotel.dll
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P04-Hotel\bin\Debug\netcoreapp2.0\P04-Hotel.pdb
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P04-Hotel\obj\Debug\netcoreapp2.0\P04-Hotel.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P04-Hotel\obj\Debug\netcoreapp2.0\P04-Hotel.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P04-Hotel\obj\Debug\netcoreapp2.0\P04-Hotel.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P04-Hotel\obj\Debug\netcoreapp2.0\P04-Hotel.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P04-Hotel\obj\Debug\netcoreapp2.0\P04-Hotel.dll
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P04-Hotel\obj\Debug\netcoreapp2.0\P04-Hotel.pdb

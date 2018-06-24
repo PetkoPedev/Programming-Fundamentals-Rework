@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P09-CountIntegers\bin\Debug\netcoreapp2.0\P09-CountIntegers.deps.json
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P09-CountIntegers\bin\Debug\netcoreapp2.0\P09-CountIntegers.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P09-CountIntegers\bin\Debug\netcoreapp2.0\P09-CountIntegers.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P09-CountIntegers\bin\Debug\netcoreapp2.0\P09-CountIntegers.dll
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P09-CountIntegers\bin\Debug\netcoreapp2.0\P09-CountIntegers.pdb
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P09-CountIntegers\obj\Debug\netcoreapp2.0\P09-CountIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P09-CountIntegers\obj\Debug\netcoreapp2.0\P09-CountIntegers.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P09-CountIntegers\obj\Debug\netcoreapp2.0\P09-CountIntegers.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P09-CountIntegers\obj\Debug\netcoreapp2.0\P09-CountIntegers.dll
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P09-CountIntegers\obj\Debug\netcoreapp2.0\P09-CountIntegers.pdb

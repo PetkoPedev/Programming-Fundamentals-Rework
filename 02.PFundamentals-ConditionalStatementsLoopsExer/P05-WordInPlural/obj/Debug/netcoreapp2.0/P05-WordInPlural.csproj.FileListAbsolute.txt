@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P05-WordInPlural\bin\Debug\netcoreapp2.0\P05-WordInPlural.deps.json
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P05-WordInPlural\bin\Debug\netcoreapp2.0\P05-WordInPlural.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P05-WordInPlural\bin\Debug\netcoreapp2.0\P05-WordInPlural.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P05-WordInPlural\bin\Debug\netcoreapp2.0\P05-WordInPlural.dll
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P05-WordInPlural\bin\Debug\netcoreapp2.0\P05-WordInPlural.pdb
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P05-WordInPlural\obj\Debug\netcoreapp2.0\P05-WordInPlural.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P05-WordInPlural\obj\Debug\netcoreapp2.0\P05-WordInPlural.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P05-WordInPlural\obj\Debug\netcoreapp2.0\P05-WordInPlural.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P05-WordInPlural\obj\Debug\netcoreapp2.0\P05-WordInPlural.dll
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P05-WordInPlural\obj\Debug\netcoreapp2.0\P05-WordInPlural.pdb

@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P12-TotalSum\bin\Debug\netcoreapp2.0\P12-TotalSum.deps.json
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P12-TotalSum\bin\Debug\netcoreapp2.0\P12-TotalSum.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P12-TotalSum\bin\Debug\netcoreapp2.0\P12-TotalSum.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P12-TotalSum\bin\Debug\netcoreapp2.0\P12-TotalSum.dll
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P12-TotalSum\bin\Debug\netcoreapp2.0\P12-TotalSum.pdb
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P12-TotalSum\obj\Debug\netcoreapp2.0\P12-TotalSum.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P12-TotalSum\obj\Debug\netcoreapp2.0\P12-TotalSum.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P12-TotalSum\obj\Debug\netcoreapp2.0\P12-TotalSum.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P12-TotalSum\obj\Debug\netcoreapp2.0\P12-TotalSum.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P12-TotalSum\obj\Debug\netcoreapp2.0\P12-TotalSum.dll
+C:\Users\Petko Pedev\source\repos\02.PFundamentals-ConditionalStatementsLoopsExer\P12-TotalSum\obj\Debug\netcoreapp2.0\P12-TotalSum.pdb
