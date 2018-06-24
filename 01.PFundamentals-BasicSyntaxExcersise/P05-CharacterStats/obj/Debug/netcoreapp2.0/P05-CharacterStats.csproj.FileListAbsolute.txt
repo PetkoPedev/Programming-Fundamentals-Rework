@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxExcersise\P05-CharacterStats\bin\Debug\netcoreapp2.0\P05-CharacterStats.deps.json
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxExcersise\P05-CharacterStats\bin\Debug\netcoreapp2.0\P05-CharacterStats.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxExcersise\P05-CharacterStats\bin\Debug\netcoreapp2.0\P05-CharacterStats.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxExcersise\P05-CharacterStats\bin\Debug\netcoreapp2.0\P05-CharacterStats.dll
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxExcersise\P05-CharacterStats\bin\Debug\netcoreapp2.0\P05-CharacterStats.pdb
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxExcersise\P05-CharacterStats\obj\Debug\netcoreapp2.0\P05-CharacterStats.csprojResolveAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxExcersise\P05-CharacterStats\obj\Debug\netcoreapp2.0\P05-CharacterStats.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxExcersise\P05-CharacterStats\obj\Debug\netcoreapp2.0\P05-CharacterStats.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxExcersise\P05-CharacterStats\obj\Debug\netcoreapp2.0\P05-CharacterStats.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxExcersise\P05-CharacterStats\obj\Debug\netcoreapp2.0\P05-CharacterStats.dll
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxExcersise\P05-CharacterStats\obj\Debug\netcoreapp2.0\P05-CharacterStats.pdb

@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxExcersise\P03-MilesToKm\bin\Debug\netcoreapp2.0\P03-MilesToKm.deps.json
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxExcersise\P03-MilesToKm\bin\Debug\netcoreapp2.0\P03-MilesToKm.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxExcersise\P03-MilesToKm\bin\Debug\netcoreapp2.0\P03-MilesToKm.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxExcersise\P03-MilesToKm\bin\Debug\netcoreapp2.0\P03-MilesToKm.dll
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxExcersise\P03-MilesToKm\bin\Debug\netcoreapp2.0\P03-MilesToKm.pdb
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxExcersise\P03-MilesToKm\obj\Debug\netcoreapp2.0\P03-MilesToKm.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxExcersise\P03-MilesToKm\obj\Debug\netcoreapp2.0\P03-MilesToKm.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxExcersise\P03-MilesToKm\obj\Debug\netcoreapp2.0\P03-MilesToKm.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxExcersise\P03-MilesToKm\obj\Debug\netcoreapp2.0\P03-MilesToKm.dll
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxExcersise\P03-MilesToKm\obj\Debug\netcoreapp2.0\P03-MilesToKm.pdb

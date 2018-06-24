@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxExcersise\P01-DebitCardNumber\bin\Debug\netcoreapp2.0\P01-DebitCardNumber.deps.json
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxExcersise\P01-DebitCardNumber\bin\Debug\netcoreapp2.0\P01-DebitCardNumber.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxExcersise\P01-DebitCardNumber\bin\Debug\netcoreapp2.0\P01-DebitCardNumber.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxExcersise\P01-DebitCardNumber\bin\Debug\netcoreapp2.0\P01-DebitCardNumber.dll
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxExcersise\P01-DebitCardNumber\bin\Debug\netcoreapp2.0\P01-DebitCardNumber.pdb
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxExcersise\P01-DebitCardNumber\obj\Debug\netcoreapp2.0\P01-DebitCardNumber.csprojResolveAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxExcersise\P01-DebitCardNumber\obj\Debug\netcoreapp2.0\P01-DebitCardNumber.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxExcersise\P01-DebitCardNumber\obj\Debug\netcoreapp2.0\P01-DebitCardNumber.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxExcersise\P01-DebitCardNumber\obj\Debug\netcoreapp2.0\P01-DebitCardNumber.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxExcersise\P01-DebitCardNumber\obj\Debug\netcoreapp2.0\P01-DebitCardNumber.dll
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxExcersise\P01-DebitCardNumber\obj\Debug\netcoreapp2.0\P01-DebitCardNumber.pdb

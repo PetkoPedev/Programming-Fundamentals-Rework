@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxExcersise\P02-RectangleArea\bin\Debug\netcoreapp2.0\P02-RectangleArea.deps.json
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxExcersise\P02-RectangleArea\bin\Debug\netcoreapp2.0\P02-RectangleArea.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxExcersise\P02-RectangleArea\bin\Debug\netcoreapp2.0\P02-RectangleArea.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxExcersise\P02-RectangleArea\bin\Debug\netcoreapp2.0\P02-RectangleArea.dll
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxExcersise\P02-RectangleArea\bin\Debug\netcoreapp2.0\P02-RectangleArea.pdb
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxExcersise\P02-RectangleArea\obj\Debug\netcoreapp2.0\P02-RectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxExcersise\P02-RectangleArea\obj\Debug\netcoreapp2.0\P02-RectangleArea.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxExcersise\P02-RectangleArea\obj\Debug\netcoreapp2.0\P02-RectangleArea.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxExcersise\P02-RectangleArea\obj\Debug\netcoreapp2.0\P02-RectangleArea.dll
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxExcersise\P02-RectangleArea\obj\Debug\netcoreapp2.0\P02-RectangleArea.pdb

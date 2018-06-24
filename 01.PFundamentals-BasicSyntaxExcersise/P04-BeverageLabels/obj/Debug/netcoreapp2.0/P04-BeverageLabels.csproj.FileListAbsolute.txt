@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxExcersise\P04-BeverageLabels\bin\Debug\netcoreapp2.0\P04-BeverageLabels.deps.json
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxExcersise\P04-BeverageLabels\bin\Debug\netcoreapp2.0\P04-BeverageLabels.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxExcersise\P04-BeverageLabels\bin\Debug\netcoreapp2.0\P04-BeverageLabels.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxExcersise\P04-BeverageLabels\bin\Debug\netcoreapp2.0\P04-BeverageLabels.dll
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxExcersise\P04-BeverageLabels\bin\Debug\netcoreapp2.0\P04-BeverageLabels.pdb
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxExcersise\P04-BeverageLabels\obj\Debug\netcoreapp2.0\P04-BeverageLabels.csprojResolveAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxExcersise\P04-BeverageLabels\obj\Debug\netcoreapp2.0\P04-BeverageLabels.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxExcersise\P04-BeverageLabels\obj\Debug\netcoreapp2.0\P04-BeverageLabels.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxExcersise\P04-BeverageLabels\obj\Debug\netcoreapp2.0\P04-BeverageLabels.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxExcersise\P04-BeverageLabels\obj\Debug\netcoreapp2.0\P04-BeverageLabels.dll
+C:\Users\Petko Pedev\source\repos\01.PFundamentals-BasicSyntaxExcersise\P04-BeverageLabels\obj\Debug\netcoreapp2.0\P04-BeverageLabels.pdb
