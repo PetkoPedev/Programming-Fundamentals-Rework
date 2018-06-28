@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\P09-RefactorSpecialNumbers\bin\Debug\netcoreapp2.0\P09-RefactorSpecialNumbers.deps.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\P09-RefactorSpecialNumbers\bin\Debug\netcoreapp2.0\P09-RefactorSpecialNumbers.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\P09-RefactorSpecialNumbers\bin\Debug\netcoreapp2.0\P09-RefactorSpecialNumbers.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\P09-RefactorSpecialNumbers\bin\Debug\netcoreapp2.0\P09-RefactorSpecialNumbers.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\P09-RefactorSpecialNumbers\bin\Debug\netcoreapp2.0\P09-RefactorSpecialNumbers.pdb
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\P09-RefactorSpecialNumbers\obj\Debug\netcoreapp2.0\P09-RefactorSpecialNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\P09-RefactorSpecialNumbers\obj\Debug\netcoreapp2.0\P09-RefactorSpecialNumbers.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\P09-RefactorSpecialNumbers\obj\Debug\netcoreapp2.0\P09-RefactorSpecialNumbers.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\P09-RefactorSpecialNumbers\obj\Debug\netcoreapp2.0\P09-RefactorSpecialNumbers.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\P09-RefactorSpecialNumbers\obj\Debug\netcoreapp2.0\P09-RefactorSpecialNumbers.pdb

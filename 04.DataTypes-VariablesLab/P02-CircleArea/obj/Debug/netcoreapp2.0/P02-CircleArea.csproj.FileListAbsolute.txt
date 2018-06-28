@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\P02-CircleArea\bin\Debug\netcoreapp2.0\P02-CircleArea.deps.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\P02-CircleArea\bin\Debug\netcoreapp2.0\P02-CircleArea.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\P02-CircleArea\bin\Debug\netcoreapp2.0\P02-CircleArea.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\P02-CircleArea\bin\Debug\netcoreapp2.0\P02-CircleArea.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\P02-CircleArea\bin\Debug\netcoreapp2.0\P02-CircleArea.pdb
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\P02-CircleArea\obj\Debug\netcoreapp2.0\P02-CircleArea.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\P02-CircleArea\obj\Debug\netcoreapp2.0\P02-CircleArea.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\P02-CircleArea\obj\Debug\netcoreapp2.0\P02-CircleArea.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\P02-CircleArea\obj\Debug\netcoreapp2.0\P02-CircleArea.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\P02-CircleArea\obj\Debug\netcoreapp2.0\P02-CircleArea.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\P02-CircleArea\obj\Debug\netcoreapp2.0\P02-CircleArea.pdb

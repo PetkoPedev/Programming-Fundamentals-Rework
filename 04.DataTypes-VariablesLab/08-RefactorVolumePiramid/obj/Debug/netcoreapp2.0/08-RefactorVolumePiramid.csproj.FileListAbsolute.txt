@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\08-RefactorVolumePiramid\bin\Debug\netcoreapp2.0\08-RefactorVolumePiramid.deps.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\08-RefactorVolumePiramid\bin\Debug\netcoreapp2.0\08-RefactorVolumePiramid.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\08-RefactorVolumePiramid\bin\Debug\netcoreapp2.0\08-RefactorVolumePiramid.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\08-RefactorVolumePiramid\bin\Debug\netcoreapp2.0\08-RefactorVolumePiramid.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\08-RefactorVolumePiramid\bin\Debug\netcoreapp2.0\08-RefactorVolumePiramid.pdb
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\08-RefactorVolumePiramid\obj\Debug\netcoreapp2.0\08-RefactorVolumePiramid.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\08-RefactorVolumePiramid\obj\Debug\netcoreapp2.0\08-RefactorVolumePiramid.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\08-RefactorVolumePiramid\obj\Debug\netcoreapp2.0\08-RefactorVolumePiramid.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\08-RefactorVolumePiramid\obj\Debug\netcoreapp2.0\08-RefactorVolumePiramid.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\08-RefactorVolumePiramid\obj\Debug\netcoreapp2.0\08-RefactorVolumePiramid.pdb

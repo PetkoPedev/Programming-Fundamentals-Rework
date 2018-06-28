@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\P06-TripleOfLetters\bin\Debug\netcoreapp2.0\P06-TripleOfLetters.deps.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\P06-TripleOfLetters\bin\Debug\netcoreapp2.0\P06-TripleOfLetters.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\P06-TripleOfLetters\bin\Debug\netcoreapp2.0\P06-TripleOfLetters.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\P06-TripleOfLetters\bin\Debug\netcoreapp2.0\P06-TripleOfLetters.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\P06-TripleOfLetters\bin\Debug\netcoreapp2.0\P06-TripleOfLetters.pdb
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\P06-TripleOfLetters\obj\Debug\netcoreapp2.0\P06-TripleOfLetters.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\P06-TripleOfLetters\obj\Debug\netcoreapp2.0\P06-TripleOfLetters.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\P06-TripleOfLetters\obj\Debug\netcoreapp2.0\P06-TripleOfLetters.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\P06-TripleOfLetters\obj\Debug\netcoreapp2.0\P06-TripleOfLetters.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\P06-TripleOfLetters\obj\Debug\netcoreapp2.0\P06-TripleOfLetters.pdb

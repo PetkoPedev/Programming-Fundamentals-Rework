@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\P04-Elevator\bin\Debug\netcoreapp2.0\P04-Elevator.deps.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\P04-Elevator\bin\Debug\netcoreapp2.0\P04-Elevator.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\P04-Elevator\bin\Debug\netcoreapp2.0\P04-Elevator.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\P04-Elevator\bin\Debug\netcoreapp2.0\P04-Elevator.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\P04-Elevator\bin\Debug\netcoreapp2.0\P04-Elevator.pdb
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\P04-Elevator\obj\Debug\netcoreapp2.0\P04-Elevator.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\P04-Elevator\obj\Debug\netcoreapp2.0\P04-Elevator.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\P04-Elevator\obj\Debug\netcoreapp2.0\P04-Elevator.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\P04-Elevator\obj\Debug\netcoreapp2.0\P04-Elevator.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\P04-Elevator\obj\Debug\netcoreapp2.0\P04-Elevator.pdb

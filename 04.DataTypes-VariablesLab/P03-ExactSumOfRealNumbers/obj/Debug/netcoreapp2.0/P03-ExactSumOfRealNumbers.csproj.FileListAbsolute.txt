@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\P03-ExactSumOfRealNumbers\bin\Debug\netcoreapp2.0\P03-ExactSumOfRealNumbers.deps.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\P03-ExactSumOfRealNumbers\bin\Debug\netcoreapp2.0\P03-ExactSumOfRealNumbers.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\P03-ExactSumOfRealNumbers\bin\Debug\netcoreapp2.0\P03-ExactSumOfRealNumbers.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\P03-ExactSumOfRealNumbers\bin\Debug\netcoreapp2.0\P03-ExactSumOfRealNumbers.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\P03-ExactSumOfRealNumbers\bin\Debug\netcoreapp2.0\P03-ExactSumOfRealNumbers.pdb
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\P03-ExactSumOfRealNumbers\obj\Debug\netcoreapp2.0\P03-ExactSumOfRealNumbers.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\P03-ExactSumOfRealNumbers\obj\Debug\netcoreapp2.0\P03-ExactSumOfRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\P03-ExactSumOfRealNumbers\obj\Debug\netcoreapp2.0\P03-ExactSumOfRealNumbers.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\P03-ExactSumOfRealNumbers\obj\Debug\netcoreapp2.0\P03-ExactSumOfRealNumbers.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\P03-ExactSumOfRealNumbers\obj\Debug\netcoreapp2.0\P03-ExactSumOfRealNumbers.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\04.DataTypes-VariablesLab\P03-ExactSumOfRealNumbers\obj\Debug\netcoreapp2.0\P03-ExactSumOfRealNumbers.pdb
