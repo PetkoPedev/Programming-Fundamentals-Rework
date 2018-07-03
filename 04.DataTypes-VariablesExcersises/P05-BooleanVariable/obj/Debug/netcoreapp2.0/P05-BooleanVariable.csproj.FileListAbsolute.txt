@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P05-BooleanVariable\bin\Debug\netcoreapp2.0\P05-BooleanVariable.deps.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P05-BooleanVariable\bin\Debug\netcoreapp2.0\P05-BooleanVariable.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P05-BooleanVariable\bin\Debug\netcoreapp2.0\P05-BooleanVariable.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P05-BooleanVariable\bin\Debug\netcoreapp2.0\P05-BooleanVariable.dll
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P05-BooleanVariable\bin\Debug\netcoreapp2.0\P05-BooleanVariable.pdb
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P05-BooleanVariable\obj\Debug\netcoreapp2.0\P05-BooleanVariable.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P05-BooleanVariable\obj\Debug\netcoreapp2.0\P05-BooleanVariable.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P05-BooleanVariable\obj\Debug\netcoreapp2.0\P05-BooleanVariable.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P05-BooleanVariable\obj\Debug\netcoreapp2.0\P05-BooleanVariable.dll
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P05-BooleanVariable\obj\Debug\netcoreapp2.0\P05-BooleanVariable.pdb

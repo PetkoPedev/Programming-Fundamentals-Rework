@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\07-ExchangeVariableValues\bin\Debug\netcoreapp2.0\07-ExchangeVariableValues.deps.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\07-ExchangeVariableValues\bin\Debug\netcoreapp2.0\07-ExchangeVariableValues.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\07-ExchangeVariableValues\bin\Debug\netcoreapp2.0\07-ExchangeVariableValues.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\07-ExchangeVariableValues\bin\Debug\netcoreapp2.0\07-ExchangeVariableValues.dll
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\07-ExchangeVariableValues\bin\Debug\netcoreapp2.0\07-ExchangeVariableValues.pdb
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\07-ExchangeVariableValues\obj\Debug\netcoreapp2.0\07-ExchangeVariableValues.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\07-ExchangeVariableValues\obj\Debug\netcoreapp2.0\07-ExchangeVariableValues.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\07-ExchangeVariableValues\obj\Debug\netcoreapp2.0\07-ExchangeVariableValues.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\07-ExchangeVariableValues\obj\Debug\netcoreapp2.0\07-ExchangeVariableValues.dll
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\07-ExchangeVariableValues\obj\Debug\netcoreapp2.0\07-ExchangeVariableValues.pdb

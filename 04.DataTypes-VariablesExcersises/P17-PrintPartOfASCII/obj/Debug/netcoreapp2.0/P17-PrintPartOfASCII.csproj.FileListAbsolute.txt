@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P17-PrintPartOfASCII\bin\Debug\netcoreapp2.0\P17-PrintPartOfASCII.deps.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P17-PrintPartOfASCII\bin\Debug\netcoreapp2.0\P17-PrintPartOfASCII.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P17-PrintPartOfASCII\bin\Debug\netcoreapp2.0\P17-PrintPartOfASCII.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P17-PrintPartOfASCII\bin\Debug\netcoreapp2.0\P17-PrintPartOfASCII.dll
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P17-PrintPartOfASCII\bin\Debug\netcoreapp2.0\P17-PrintPartOfASCII.pdb
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P17-PrintPartOfASCII\obj\Debug\netcoreapp2.0\P17-PrintPartOfASCII.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P17-PrintPartOfASCII\obj\Debug\netcoreapp2.0\P17-PrintPartOfASCII.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P17-PrintPartOfASCII\obj\Debug\netcoreapp2.0\P17-PrintPartOfASCII.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P17-PrintPartOfASCII\obj\Debug\netcoreapp2.0\P17-PrintPartOfASCII.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P17-PrintPartOfASCII\obj\Debug\netcoreapp2.0\P17-PrintPartOfASCII.dll
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P17-PrintPartOfASCII\obj\Debug\netcoreapp2.0\P17-PrintPartOfASCII.pdb

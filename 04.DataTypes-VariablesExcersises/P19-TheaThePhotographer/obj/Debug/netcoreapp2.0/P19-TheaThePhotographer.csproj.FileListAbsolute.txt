@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P19-TheaThePhotographer\bin\Debug\netcoreapp2.0\P19-TheaThePhotographer.deps.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P19-TheaThePhotographer\bin\Debug\netcoreapp2.0\P19-TheaThePhotographer.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P19-TheaThePhotographer\bin\Debug\netcoreapp2.0\P19-TheaThePhotographer.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P19-TheaThePhotographer\bin\Debug\netcoreapp2.0\P19-TheaThePhotographer.dll
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P19-TheaThePhotographer\bin\Debug\netcoreapp2.0\P19-TheaThePhotographer.pdb
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P19-TheaThePhotographer\obj\Debug\netcoreapp2.0\P19-TheaThePhotographer.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P19-TheaThePhotographer\obj\Debug\netcoreapp2.0\P19-TheaThePhotographer.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P19-TheaThePhotographer\obj\Debug\netcoreapp2.0\P19-TheaThePhotographer.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P19-TheaThePhotographer\obj\Debug\netcoreapp2.0\P19-TheaThePhotographer.dll
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P19-TheaThePhotographer\obj\Debug\netcoreapp2.0\P19-TheaThePhotographer.pdb

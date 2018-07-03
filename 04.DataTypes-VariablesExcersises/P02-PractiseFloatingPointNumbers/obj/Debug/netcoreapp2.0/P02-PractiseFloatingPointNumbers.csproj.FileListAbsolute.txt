@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P02-PractiseFloatingPointNumbers\bin\Debug\netcoreapp2.0\P02-PractiseFloatingPointNumbers.deps.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P02-PractiseFloatingPointNumbers\bin\Debug\netcoreapp2.0\P02-PractiseFloatingPointNumbers.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P02-PractiseFloatingPointNumbers\bin\Debug\netcoreapp2.0\P02-PractiseFloatingPointNumbers.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P02-PractiseFloatingPointNumbers\bin\Debug\netcoreapp2.0\P02-PractiseFloatingPointNumbers.dll
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P02-PractiseFloatingPointNumbers\bin\Debug\netcoreapp2.0\P02-PractiseFloatingPointNumbers.pdb
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P02-PractiseFloatingPointNumbers\obj\Debug\netcoreapp2.0\P02-PractiseFloatingPointNumbers.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P02-PractiseFloatingPointNumbers\obj\Debug\netcoreapp2.0\P02-PractiseFloatingPointNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P02-PractiseFloatingPointNumbers\obj\Debug\netcoreapp2.0\P02-PractiseFloatingPointNumbers.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P02-PractiseFloatingPointNumbers\obj\Debug\netcoreapp2.0\P02-PractiseFloatingPointNumbers.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P02-PractiseFloatingPointNumbers\obj\Debug\netcoreapp2.0\P02-PractiseFloatingPointNumbers.dll
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P02-PractiseFloatingPointNumbers\obj\Debug\netcoreapp2.0\P02-PractiseFloatingPointNumbers.pdb

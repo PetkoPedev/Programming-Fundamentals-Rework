@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P03-PractiseCharactersStrings\bin\Debug\netcoreapp2.0\P03-PractiseCharactersStrings.deps.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P03-PractiseCharactersStrings\bin\Debug\netcoreapp2.0\P03-PractiseCharactersStrings.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P03-PractiseCharactersStrings\bin\Debug\netcoreapp2.0\P03-PractiseCharactersStrings.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P03-PractiseCharactersStrings\bin\Debug\netcoreapp2.0\P03-PractiseCharactersStrings.dll
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P03-PractiseCharactersStrings\bin\Debug\netcoreapp2.0\P03-PractiseCharactersStrings.pdb
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P03-PractiseCharactersStrings\obj\Debug\netcoreapp2.0\P03-PractiseCharactersStrings.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P03-PractiseCharactersStrings\obj\Debug\netcoreapp2.0\P03-PractiseCharactersStrings.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P03-PractiseCharactersStrings\obj\Debug\netcoreapp2.0\P03-PractiseCharactersStrings.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P03-PractiseCharactersStrings\obj\Debug\netcoreapp2.0\P03-PractiseCharactersStrings.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P03-PractiseCharactersStrings\obj\Debug\netcoreapp2.0\P03-PractiseCharactersStrings.dll
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P03-PractiseCharactersStrings\obj\Debug\netcoreapp2.0\P03-PractiseCharactersStrings.pdb

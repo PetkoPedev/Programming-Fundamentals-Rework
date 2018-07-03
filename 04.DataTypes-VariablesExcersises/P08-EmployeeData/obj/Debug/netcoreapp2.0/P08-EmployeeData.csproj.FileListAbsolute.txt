@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P08-EmployeeData\bin\Debug\netcoreapp2.0\P08-EmployeeData.deps.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P08-EmployeeData\bin\Debug\netcoreapp2.0\P08-EmployeeData.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P08-EmployeeData\bin\Debug\netcoreapp2.0\P08-EmployeeData.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P08-EmployeeData\bin\Debug\netcoreapp2.0\P08-EmployeeData.dll
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P08-EmployeeData\bin\Debug\netcoreapp2.0\P08-EmployeeData.pdb
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P08-EmployeeData\obj\Debug\netcoreapp2.0\P08-EmployeeData.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P08-EmployeeData\obj\Debug\netcoreapp2.0\P08-EmployeeData.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P08-EmployeeData\obj\Debug\netcoreapp2.0\P08-EmployeeData.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P08-EmployeeData\obj\Debug\netcoreapp2.0\P08-EmployeeData.dll
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P08-EmployeeData\obj\Debug\netcoreapp2.0\P08-EmployeeData.pdb

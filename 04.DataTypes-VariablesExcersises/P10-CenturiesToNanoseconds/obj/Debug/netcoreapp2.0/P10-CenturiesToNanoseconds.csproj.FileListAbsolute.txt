@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P10-CenturiesToNanoseconds\bin\Debug\netcoreapp2.0\P10-CenturiesToNanoseconds.deps.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P10-CenturiesToNanoseconds\bin\Debug\netcoreapp2.0\P10-CenturiesToNanoseconds.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P10-CenturiesToNanoseconds\bin\Debug\netcoreapp2.0\P10-CenturiesToNanoseconds.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P10-CenturiesToNanoseconds\bin\Debug\netcoreapp2.0\P10-CenturiesToNanoseconds.dll
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P10-CenturiesToNanoseconds\bin\Debug\netcoreapp2.0\P10-CenturiesToNanoseconds.pdb
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P10-CenturiesToNanoseconds\obj\Debug\netcoreapp2.0\P10-CenturiesToNanoseconds.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P10-CenturiesToNanoseconds\obj\Debug\netcoreapp2.0\P10-CenturiesToNanoseconds.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P10-CenturiesToNanoseconds\obj\Debug\netcoreapp2.0\P10-CenturiesToNanoseconds.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P10-CenturiesToNanoseconds\obj\Debug\netcoreapp2.0\P10-CenturiesToNanoseconds.dll
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P10-CenturiesToNanoseconds\obj\Debug\netcoreapp2.0\P10-CenturiesToNanoseconds.pdb

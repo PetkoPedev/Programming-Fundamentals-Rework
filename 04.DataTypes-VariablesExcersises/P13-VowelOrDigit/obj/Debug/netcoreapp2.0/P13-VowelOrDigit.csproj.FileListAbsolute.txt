@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P13-VowelOrDigit\bin\Debug\netcoreapp2.0\P13-VowelOrDigit.deps.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P13-VowelOrDigit\bin\Debug\netcoreapp2.0\P13-VowelOrDigit.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P13-VowelOrDigit\bin\Debug\netcoreapp2.0\P13-VowelOrDigit.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P13-VowelOrDigit\bin\Debug\netcoreapp2.0\P13-VowelOrDigit.dll
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P13-VowelOrDigit\bin\Debug\netcoreapp2.0\P13-VowelOrDigit.pdb
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P13-VowelOrDigit\obj\Debug\netcoreapp2.0\P13-VowelOrDigit.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P13-VowelOrDigit\obj\Debug\netcoreapp2.0\P13-VowelOrDigit.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P13-VowelOrDigit\obj\Debug\netcoreapp2.0\P13-VowelOrDigit.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P13-VowelOrDigit\obj\Debug\netcoreapp2.0\P13-VowelOrDigit.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P13-VowelOrDigit\obj\Debug\netcoreapp2.0\P13-VowelOrDigit.dll
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P13-VowelOrDigit\obj\Debug\netcoreapp2.0\P13-VowelOrDigit.pdb

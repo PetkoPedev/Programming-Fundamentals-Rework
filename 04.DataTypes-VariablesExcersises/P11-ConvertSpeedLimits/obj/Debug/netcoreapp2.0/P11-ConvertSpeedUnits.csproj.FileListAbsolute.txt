@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P11-ConvertSpeedLimits\bin\Debug\netcoreapp2.0\P11-ConvertSpeedUnits.deps.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P11-ConvertSpeedLimits\bin\Debug\netcoreapp2.0\P11-ConvertSpeedUnits.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P11-ConvertSpeedLimits\bin\Debug\netcoreapp2.0\P11-ConvertSpeedUnits.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P11-ConvertSpeedLimits\bin\Debug\netcoreapp2.0\P11-ConvertSpeedUnits.dll
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P11-ConvertSpeedLimits\bin\Debug\netcoreapp2.0\P11-ConvertSpeedUnits.pdb
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P11-ConvertSpeedLimits\obj\Debug\netcoreapp2.0\P11-ConvertSpeedUnits.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P11-ConvertSpeedLimits\obj\Debug\netcoreapp2.0\P11-ConvertSpeedUnits.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P11-ConvertSpeedLimits\obj\Debug\netcoreapp2.0\P11-ConvertSpeedUnits.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P11-ConvertSpeedLimits\obj\Debug\netcoreapp2.0\P11-ConvertSpeedUnits.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P11-ConvertSpeedLimits\obj\Debug\netcoreapp2.0\P11-ConvertSpeedUnits.dll
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P11-ConvertSpeedLimits\obj\Debug\netcoreapp2.0\P11-ConvertSpeedUnits.pdb

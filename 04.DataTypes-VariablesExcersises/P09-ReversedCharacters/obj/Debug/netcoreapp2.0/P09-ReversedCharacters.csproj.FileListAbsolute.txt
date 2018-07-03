@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P09-ReversedCharacters\bin\Debug\netcoreapp2.0\P09-ReversedCharacters.deps.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P09-ReversedCharacters\bin\Debug\netcoreapp2.0\P09-ReversedCharacters.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P09-ReversedCharacters\bin\Debug\netcoreapp2.0\P09-ReversedCharacters.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P09-ReversedCharacters\bin\Debug\netcoreapp2.0\P09-ReversedCharacters.dll
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P09-ReversedCharacters\bin\Debug\netcoreapp2.0\P09-ReversedCharacters.pdb
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P09-ReversedCharacters\obj\Debug\netcoreapp2.0\P09-ReversedCharacters.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P09-ReversedCharacters\obj\Debug\netcoreapp2.0\P09-ReversedCharacters.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P09-ReversedCharacters\obj\Debug\netcoreapp2.0\P09-ReversedCharacters.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P09-ReversedCharacters\obj\Debug\netcoreapp2.0\P09-ReversedCharacters.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P09-ReversedCharacters\obj\Debug\netcoreapp2.0\P09-ReversedCharacters.dll
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P09-ReversedCharacters\obj\Debug\netcoreapp2.0\P09-ReversedCharacters.pdb

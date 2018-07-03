@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P04-VariableInHex\bin\Debug\netcoreapp2.0\P04-VariableInHex.deps.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P04-VariableInHex\bin\Debug\netcoreapp2.0\P04-VariableInHex.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P04-VariableInHex\bin\Debug\netcoreapp2.0\P04-VariableInHex.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P04-VariableInHex\bin\Debug\netcoreapp2.0\P04-VariableInHex.dll
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P04-VariableInHex\bin\Debug\netcoreapp2.0\P04-VariableInHex.pdb
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P04-VariableInHex\obj\Debug\netcoreapp2.0\P04-VariableInHex.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P04-VariableInHex\obj\Debug\netcoreapp2.0\P04-VariableInHex.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P04-VariableInHex\obj\Debug\netcoreapp2.0\P04-VariableInHex.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P04-VariableInHex\obj\Debug\netcoreapp2.0\P04-VariableInHex.dll
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P04-VariableInHex\obj\Debug\netcoreapp2.0\P04-VariableInHex.pdb

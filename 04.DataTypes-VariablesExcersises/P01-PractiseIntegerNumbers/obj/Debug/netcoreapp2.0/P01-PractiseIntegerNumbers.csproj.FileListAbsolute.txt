@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P01-PractiseIntegerNumbers\bin\Debug\netcoreapp2.0\P01-PractiseIntegerNumbers.deps.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P01-PractiseIntegerNumbers\bin\Debug\netcoreapp2.0\P01-PractiseIntegerNumbers.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P01-PractiseIntegerNumbers\bin\Debug\netcoreapp2.0\P01-PractiseIntegerNumbers.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P01-PractiseIntegerNumbers\bin\Debug\netcoreapp2.0\P01-PractiseIntegerNumbers.dll
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P01-PractiseIntegerNumbers\bin\Debug\netcoreapp2.0\P01-PractiseIntegerNumbers.pdb
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P01-PractiseIntegerNumbers\obj\Debug\netcoreapp2.0\P01-PractiseIntegerNumbers.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P01-PractiseIntegerNumbers\obj\Debug\netcoreapp2.0\P01-PractiseIntegerNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P01-PractiseIntegerNumbers\obj\Debug\netcoreapp2.0\P01-PractiseIntegerNumbers.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P01-PractiseIntegerNumbers\obj\Debug\netcoreapp2.0\P01-PractiseIntegerNumbers.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P01-PractiseIntegerNumbers\obj\Debug\netcoreapp2.0\P01-PractiseIntegerNumbers.dll
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P01-PractiseIntegerNumbers\obj\Debug\netcoreapp2.0\P01-PractiseIntegerNumbers.pdb

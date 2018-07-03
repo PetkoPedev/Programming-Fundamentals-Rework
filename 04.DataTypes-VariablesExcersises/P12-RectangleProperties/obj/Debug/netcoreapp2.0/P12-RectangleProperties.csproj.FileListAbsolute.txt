@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P12-RectangleProperties\bin\Debug\netcoreapp2.0\P12-RectangleProperties.deps.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P12-RectangleProperties\bin\Debug\netcoreapp2.0\P12-RectangleProperties.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P12-RectangleProperties\bin\Debug\netcoreapp2.0\P12-RectangleProperties.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P12-RectangleProperties\bin\Debug\netcoreapp2.0\P12-RectangleProperties.dll
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P12-RectangleProperties\bin\Debug\netcoreapp2.0\P12-RectangleProperties.pdb
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P12-RectangleProperties\obj\Debug\netcoreapp2.0\P12-RectangleProperties.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P12-RectangleProperties\obj\Debug\netcoreapp2.0\P12-RectangleProperties.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P12-RectangleProperties\obj\Debug\netcoreapp2.0\P12-RectangleProperties.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P12-RectangleProperties\obj\Debug\netcoreapp2.0\P12-RectangleProperties.dll
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P12-RectangleProperties\obj\Debug\netcoreapp2.0\P12-RectangleProperties.pdb

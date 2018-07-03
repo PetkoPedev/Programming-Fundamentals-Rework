@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P06\bin\Debug\netcoreapp2.0\P06-StringsObjects.deps.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P06\bin\Debug\netcoreapp2.0\P06-StringsObjects.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P06\bin\Debug\netcoreapp2.0\P06-StringsObjects.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P06\bin\Debug\netcoreapp2.0\P06-StringsObjects.dll
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P06\bin\Debug\netcoreapp2.0\P06-StringsObjects.pdb
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P06\obj\Debug\netcoreapp2.0\P06-StringsObjects.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P06\obj\Debug\netcoreapp2.0\P06-StringsObjects.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P06\obj\Debug\netcoreapp2.0\P06-StringsObjects.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P06\obj\Debug\netcoreapp2.0\P06-StringsObjects.dll
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesExcersises\P06\obj\Debug\netcoreapp2.0\P06-StringsObjects.pdb
