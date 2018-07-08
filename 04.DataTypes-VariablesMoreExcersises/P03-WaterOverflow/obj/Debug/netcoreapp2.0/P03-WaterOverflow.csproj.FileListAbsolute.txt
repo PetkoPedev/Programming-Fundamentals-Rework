@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P03-WaterOverflow\bin\Debug\netcoreapp2.0\P03-WaterOverflow.deps.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P03-WaterOverflow\bin\Debug\netcoreapp2.0\P03-WaterOverflow.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P03-WaterOverflow\bin\Debug\netcoreapp2.0\P03-WaterOverflow.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P03-WaterOverflow\bin\Debug\netcoreapp2.0\P03-WaterOverflow.dll
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P03-WaterOverflow\bin\Debug\netcoreapp2.0\P03-WaterOverflow.pdb
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P03-WaterOverflow\obj\Debug\netcoreapp2.0\P03-WaterOverflow.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P03-WaterOverflow\obj\Debug\netcoreapp2.0\P03-WaterOverflow.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P03-WaterOverflow\obj\Debug\netcoreapp2.0\P03-WaterOverflow.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P03-WaterOverflow\obj\Debug\netcoreapp2.0\P03-WaterOverflow.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P03-WaterOverflow\obj\Debug\netcoreapp2.0\P03-WaterOverflow.dll
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P03-WaterOverflow\obj\Debug\netcoreapp2.0\P03-WaterOverflow.pdb

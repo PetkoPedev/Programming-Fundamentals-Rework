@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P12-BeerKegs\bin\Debug\netcoreapp2.0\P12-BeerKegs.deps.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P12-BeerKegs\bin\Debug\netcoreapp2.0\P12-BeerKegs.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P12-BeerKegs\bin\Debug\netcoreapp2.0\P12-BeerKegs.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P12-BeerKegs\bin\Debug\netcoreapp2.0\P12-BeerKegs.dll
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P12-BeerKegs\bin\Debug\netcoreapp2.0\P12-BeerKegs.pdb
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P12-BeerKegs\obj\Debug\netcoreapp2.0\P12-BeerKegs.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P12-BeerKegs\obj\Debug\netcoreapp2.0\P12-BeerKegs.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P12-BeerKegs\obj\Debug\netcoreapp2.0\P12-BeerKegs.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P12-BeerKegs\obj\Debug\netcoreapp2.0\P12-BeerKegs.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P12-BeerKegs\obj\Debug\netcoreapp2.0\P12-BeerKegs.dll
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P12-BeerKegs\obj\Debug\netcoreapp2.0\P12-BeerKegs.pdb

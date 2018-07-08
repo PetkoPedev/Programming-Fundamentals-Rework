@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P06-CatchTheThief\bin\Debug\netcoreapp2.0\P06-CatchTheThief.deps.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P06-CatchTheThief\bin\Debug\netcoreapp2.0\P06-CatchTheThief.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P06-CatchTheThief\bin\Debug\netcoreapp2.0\P06-CatchTheThief.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P06-CatchTheThief\bin\Debug\netcoreapp2.0\P06-CatchTheThief.dll
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P06-CatchTheThief\bin\Debug\netcoreapp2.0\P06-CatchTheThief.pdb
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P06-CatchTheThief\obj\Debug\netcoreapp2.0\P06-CatchTheThief.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P06-CatchTheThief\obj\Debug\netcoreapp2.0\P06-CatchTheThief.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P06-CatchTheThief\obj\Debug\netcoreapp2.0\P06-CatchTheThief.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P06-CatchTheThief\obj\Debug\netcoreapp2.0\P06-CatchTheThief.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P06-CatchTheThief\obj\Debug\netcoreapp2.0\P06-CatchTheThief.dll
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P06-CatchTheThief\obj\Debug\netcoreapp2.0\P06-CatchTheThief.pdb

@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P08-HouseBuilder\bin\Debug\netcoreapp2.0\P08-HouseBuilder.deps.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P08-HouseBuilder\bin\Debug\netcoreapp2.0\P08-HouseBuilder.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P08-HouseBuilder\bin\Debug\netcoreapp2.0\P08-HouseBuilder.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P08-HouseBuilder\bin\Debug\netcoreapp2.0\P08-HouseBuilder.dll
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P08-HouseBuilder\bin\Debug\netcoreapp2.0\P08-HouseBuilder.pdb
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P08-HouseBuilder\obj\Debug\netcoreapp2.0\P08-HouseBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P08-HouseBuilder\obj\Debug\netcoreapp2.0\P08-HouseBuilder.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P08-HouseBuilder\obj\Debug\netcoreapp2.0\P08-HouseBuilder.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P08-HouseBuilder\obj\Debug\netcoreapp2.0\P08-HouseBuilder.dll
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P08-HouseBuilder\obj\Debug\netcoreapp2.0\P08-HouseBuilder.pdb

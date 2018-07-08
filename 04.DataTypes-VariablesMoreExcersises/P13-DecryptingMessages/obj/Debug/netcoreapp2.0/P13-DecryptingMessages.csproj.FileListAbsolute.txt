@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P13-DecryptingMessages\bin\Debug\netcoreapp2.0\P13-DecryptingMessages.deps.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P13-DecryptingMessages\bin\Debug\netcoreapp2.0\P13-DecryptingMessages.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P13-DecryptingMessages\bin\Debug\netcoreapp2.0\P13-DecryptingMessages.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P13-DecryptingMessages\bin\Debug\netcoreapp2.0\P13-DecryptingMessages.dll
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P13-DecryptingMessages\bin\Debug\netcoreapp2.0\P13-DecryptingMessages.pdb
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P13-DecryptingMessages\obj\Debug\netcoreapp2.0\P13-DecryptingMessages.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P13-DecryptingMessages\obj\Debug\netcoreapp2.0\P13-DecryptingMessages.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P13-DecryptingMessages\obj\Debug\netcoreapp2.0\P13-DecryptingMessages.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P13-DecryptingMessages\obj\Debug\netcoreapp2.0\P13-DecryptingMessages.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P13-DecryptingMessages\obj\Debug\netcoreapp2.0\P13-DecryptingMessages.dll
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P13-DecryptingMessages\obj\Debug\netcoreapp2.0\P13-DecryptingMessages.pdb

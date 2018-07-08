@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P11-StringConcatenation\bin\Debug\netcoreapp2.0\P11-StringConcatenation.deps.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P11-StringConcatenation\bin\Debug\netcoreapp2.0\P11-StringConcatenation.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P11-StringConcatenation\bin\Debug\netcoreapp2.0\P11-StringConcatenation.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P11-StringConcatenation\bin\Debug\netcoreapp2.0\P11-StringConcatenation.dll
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P11-StringConcatenation\bin\Debug\netcoreapp2.0\P11-StringConcatenation.pdb
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P11-StringConcatenation\obj\Debug\netcoreapp2.0\P11-StringConcatenation.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P11-StringConcatenation\obj\Debug\netcoreapp2.0\P11-StringConcatenation.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P11-StringConcatenation\obj\Debug\netcoreapp2.0\P11-StringConcatenation.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P11-StringConcatenation\obj\Debug\netcoreapp2.0\P11-StringConcatenation.dll
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P11-StringConcatenation\obj\Debug\netcoreapp2.0\P11-StringConcatenation.pdb

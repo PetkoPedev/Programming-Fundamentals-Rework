@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P10-SumOfChars\bin\Debug\netcoreapp2.0\P10-SumOfChars.deps.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P10-SumOfChars\bin\Debug\netcoreapp2.0\P10-SumOfChars.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P10-SumOfChars\bin\Debug\netcoreapp2.0\P10-SumOfChars.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P10-SumOfChars\bin\Debug\netcoreapp2.0\P10-SumOfChars.dll
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P10-SumOfChars\bin\Debug\netcoreapp2.0\P10-SumOfChars.pdb
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P10-SumOfChars\obj\Debug\netcoreapp2.0\P10-SumOfChars.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P10-SumOfChars\obj\Debug\netcoreapp2.0\P10-SumOfChars.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P10-SumOfChars\obj\Debug\netcoreapp2.0\P10-SumOfChars.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P10-SumOfChars\obj\Debug\netcoreapp2.0\P10-SumOfChars.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P10-SumOfChars\obj\Debug\netcoreapp2.0\P10-SumOfChars.dll
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P10-SumOfChars\obj\Debug\netcoreapp2.0\P10-SumOfChars.pdb

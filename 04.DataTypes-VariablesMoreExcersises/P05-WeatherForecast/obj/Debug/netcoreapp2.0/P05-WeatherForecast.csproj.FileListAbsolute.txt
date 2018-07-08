@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P05-WeatherForecast\bin\Debug\netcoreapp2.0\P05-WeatherForecast.deps.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P05-WeatherForecast\bin\Debug\netcoreapp2.0\P05-WeatherForecast.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P05-WeatherForecast\bin\Debug\netcoreapp2.0\P05-WeatherForecast.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P05-WeatherForecast\bin\Debug\netcoreapp2.0\P05-WeatherForecast.dll
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P05-WeatherForecast\bin\Debug\netcoreapp2.0\P05-WeatherForecast.pdb
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P05-WeatherForecast\obj\Debug\netcoreapp2.0\P05-WeatherForecast.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P05-WeatherForecast\obj\Debug\netcoreapp2.0\P05-WeatherForecast.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P05-WeatherForecast\obj\Debug\netcoreapp2.0\P05-WeatherForecast.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P05-WeatherForecast\obj\Debug\netcoreapp2.0\P05-WeatherForecast.dll
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P05-WeatherForecast\obj\Debug\netcoreapp2.0\P05-WeatherForecast.pdb

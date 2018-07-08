@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P02-NumberChecker\bin\Debug\netcoreapp2.0\P02-NumberChecker.deps.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P02-NumberChecker\bin\Debug\netcoreapp2.0\P02-NumberChecker.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P02-NumberChecker\bin\Debug\netcoreapp2.0\P02-NumberChecker.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P02-NumberChecker\bin\Debug\netcoreapp2.0\P02-NumberChecker.dll
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P02-NumberChecker\bin\Debug\netcoreapp2.0\P02-NumberChecker.pdb
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P02-NumberChecker\obj\Debug\netcoreapp2.0\P02-NumberChecker.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P02-NumberChecker\obj\Debug\netcoreapp2.0\P02-NumberChecker.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P02-NumberChecker\obj\Debug\netcoreapp2.0\P02-NumberChecker.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P02-NumberChecker\obj\Debug\netcoreapp2.0\P02-NumberChecker.dll
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P02-NumberChecker\obj\Debug\netcoreapp2.0\P02-NumberChecker.pdb

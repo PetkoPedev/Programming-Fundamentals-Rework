@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P07-SentenceTheThief\bin\Debug\netcoreapp2.0\P07-SentenceTheThief.deps.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P07-SentenceTheThief\bin\Debug\netcoreapp2.0\P07-SentenceTheThief.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P07-SentenceTheThief\bin\Debug\netcoreapp2.0\P07-SentenceTheThief.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P07-SentenceTheThief\bin\Debug\netcoreapp2.0\P07-SentenceTheThief.dll
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P07-SentenceTheThief\bin\Debug\netcoreapp2.0\P07-SentenceTheThief.pdb
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P07-SentenceTheThief\obj\Debug\netcoreapp2.0\P07-SentenceTheThief.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P07-SentenceTheThief\obj\Debug\netcoreapp2.0\P07-SentenceTheThief.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P07-SentenceTheThief\obj\Debug\netcoreapp2.0\P07-SentenceTheThief.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P07-SentenceTheThief\obj\Debug\netcoreapp2.0\P07-SentenceTheThief.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P07-SentenceTheThief\obj\Debug\netcoreapp2.0\P07-SentenceTheThief.dll
+C:\Users\Petko Pedev\source\repos\04.DataTypes-VariablesMoreExcersises\P07-SentenceTheThief\obj\Debug\netcoreapp2.0\P07-SentenceTheThief.pdb
