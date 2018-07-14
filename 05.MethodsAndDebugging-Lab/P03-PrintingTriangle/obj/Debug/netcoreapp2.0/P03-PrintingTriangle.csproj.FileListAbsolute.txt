@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\repos\05.MethodsAndDebugging-Lab\P03-PrintingTriangle\bin\Debug\netcoreapp2.0\P03-PrintingTriangle.deps.json
+C:\Users\Petko Pedev\source\repos\05.MethodsAndDebugging-Lab\P03-PrintingTriangle\bin\Debug\netcoreapp2.0\P03-PrintingTriangle.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\05.MethodsAndDebugging-Lab\P03-PrintingTriangle\bin\Debug\netcoreapp2.0\P03-PrintingTriangle.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\05.MethodsAndDebugging-Lab\P03-PrintingTriangle\bin\Debug\netcoreapp2.0\P03-PrintingTriangle.dll
+C:\Users\Petko Pedev\source\repos\05.MethodsAndDebugging-Lab\P03-PrintingTriangle\bin\Debug\netcoreapp2.0\P03-PrintingTriangle.pdb
+C:\Users\Petko Pedev\source\repos\05.MethodsAndDebugging-Lab\P03-PrintingTriangle\obj\Debug\netcoreapp2.0\P03-PrintingTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\05.MethodsAndDebugging-Lab\P03-PrintingTriangle\obj\Debug\netcoreapp2.0\P03-PrintingTriangle.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\05.MethodsAndDebugging-Lab\P03-PrintingTriangle\obj\Debug\netcoreapp2.0\P03-PrintingTriangle.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\05.MethodsAndDebugging-Lab\P03-PrintingTriangle\obj\Debug\netcoreapp2.0\P03-PrintingTriangle.dll
+C:\Users\Petko Pedev\source\repos\05.MethodsAndDebugging-Lab\P03-PrintingTriangle\obj\Debug\netcoreapp2.0\P03-PrintingTriangle.pdb

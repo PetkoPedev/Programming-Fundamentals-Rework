@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\05.MethodsAndDebugging-Lab\P09-MultiplyEvensByOdds\bin\Debug\netcoreapp2.0\P09-MultiplyEvensByOdds.deps.json
+C:\Users\Petko Pedev\source\repos\05.MethodsAndDebugging-Lab\P09-MultiplyEvensByOdds\bin\Debug\netcoreapp2.0\P09-MultiplyEvensByOdds.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\05.MethodsAndDebugging-Lab\P09-MultiplyEvensByOdds\bin\Debug\netcoreapp2.0\P09-MultiplyEvensByOdds.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\05.MethodsAndDebugging-Lab\P09-MultiplyEvensByOdds\bin\Debug\netcoreapp2.0\P09-MultiplyEvensByOdds.dll
+C:\Users\Petko Pedev\source\repos\05.MethodsAndDebugging-Lab\P09-MultiplyEvensByOdds\bin\Debug\netcoreapp2.0\P09-MultiplyEvensByOdds.pdb
+C:\Users\Petko Pedev\source\repos\05.MethodsAndDebugging-Lab\P09-MultiplyEvensByOdds\obj\Debug\netcoreapp2.0\P09-MultiplyEvensByOdds.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\05.MethodsAndDebugging-Lab\P09-MultiplyEvensByOdds\obj\Debug\netcoreapp2.0\P09-MultiplyEvensByOdds.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\05.MethodsAndDebugging-Lab\P09-MultiplyEvensByOdds\obj\Debug\netcoreapp2.0\P09-MultiplyEvensByOdds.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\05.MethodsAndDebugging-Lab\P09-MultiplyEvensByOdds\obj\Debug\netcoreapp2.0\P09-MultiplyEvensByOdds.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\05.MethodsAndDebugging-Lab\P09-MultiplyEvensByOdds\obj\Debug\netcoreapp2.0\P09-MultiplyEvensByOdds.dll
+C:\Users\Petko Pedev\source\repos\05.MethodsAndDebugging-Lab\P09-MultiplyEvensByOdds\obj\Debug\netcoreapp2.0\P09-MultiplyEvensByOdds.pdb

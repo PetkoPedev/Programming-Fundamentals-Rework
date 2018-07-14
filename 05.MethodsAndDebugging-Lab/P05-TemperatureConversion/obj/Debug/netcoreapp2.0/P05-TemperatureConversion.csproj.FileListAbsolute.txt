@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\repos\05.MethodsAndDebugging-Lab\P05-TemperatureConversion\bin\Debug\netcoreapp2.0\P05-TemperatureConversion.deps.json
+C:\Users\Petko Pedev\source\repos\05.MethodsAndDebugging-Lab\P05-TemperatureConversion\bin\Debug\netcoreapp2.0\P05-TemperatureConversion.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\05.MethodsAndDebugging-Lab\P05-TemperatureConversion\bin\Debug\netcoreapp2.0\P05-TemperatureConversion.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\05.MethodsAndDebugging-Lab\P05-TemperatureConversion\bin\Debug\netcoreapp2.0\P05-TemperatureConversion.dll
+C:\Users\Petko Pedev\source\repos\05.MethodsAndDebugging-Lab\P05-TemperatureConversion\bin\Debug\netcoreapp2.0\P05-TemperatureConversion.pdb
+C:\Users\Petko Pedev\source\repos\05.MethodsAndDebugging-Lab\P05-TemperatureConversion\obj\Debug\netcoreapp2.0\P05-TemperatureConversion.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\05.MethodsAndDebugging-Lab\P05-TemperatureConversion\obj\Debug\netcoreapp2.0\P05-TemperatureConversion.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\05.MethodsAndDebugging-Lab\P05-TemperatureConversion\obj\Debug\netcoreapp2.0\P05-TemperatureConversion.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\05.MethodsAndDebugging-Lab\P05-TemperatureConversion\obj\Debug\netcoreapp2.0\P05-TemperatureConversion.dll
+C:\Users\Petko Pedev\source\repos\05.MethodsAndDebugging-Lab\P05-TemperatureConversion\obj\Debug\netcoreapp2.0\P05-TemperatureConversion.pdb

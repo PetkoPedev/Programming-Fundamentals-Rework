@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\05.MethodsAndDebugging-Lab\P10-HolidaysBetweenTwoDates\bin\Debug\netcoreapp2.0\P10-HolidaysBetweenTwoDates.deps.json
+C:\Users\Petko Pedev\source\repos\05.MethodsAndDebugging-Lab\P10-HolidaysBetweenTwoDates\bin\Debug\netcoreapp2.0\P10-HolidaysBetweenTwoDates.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\05.MethodsAndDebugging-Lab\P10-HolidaysBetweenTwoDates\bin\Debug\netcoreapp2.0\P10-HolidaysBetweenTwoDates.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\05.MethodsAndDebugging-Lab\P10-HolidaysBetweenTwoDates\bin\Debug\netcoreapp2.0\P10-HolidaysBetweenTwoDates.dll
+C:\Users\Petko Pedev\source\repos\05.MethodsAndDebugging-Lab\P10-HolidaysBetweenTwoDates\bin\Debug\netcoreapp2.0\P10-HolidaysBetweenTwoDates.pdb
+C:\Users\Petko Pedev\source\repos\05.MethodsAndDebugging-Lab\P10-HolidaysBetweenTwoDates\obj\Debug\netcoreapp2.0\P10-HolidaysBetweenTwoDates.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\05.MethodsAndDebugging-Lab\P10-HolidaysBetweenTwoDates\obj\Debug\netcoreapp2.0\P10-HolidaysBetweenTwoDates.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\05.MethodsAndDebugging-Lab\P10-HolidaysBetweenTwoDates\obj\Debug\netcoreapp2.0\P10-HolidaysBetweenTwoDates.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\05.MethodsAndDebugging-Lab\P10-HolidaysBetweenTwoDates\obj\Debug\netcoreapp2.0\P10-HolidaysBetweenTwoDates.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\05.MethodsAndDebugging-Lab\P10-HolidaysBetweenTwoDates\obj\Debug\netcoreapp2.0\P10-HolidaysBetweenTwoDates.dll
+C:\Users\Petko Pedev\source\repos\05.MethodsAndDebugging-Lab\P10-HolidaysBetweenTwoDates\obj\Debug\netcoreapp2.0\P10-HolidaysBetweenTwoDates.pdb

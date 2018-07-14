@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\05.MethodsAndDebugging-Lab\P02-SignOfIntegerNumber\bin\Debug\netcoreapp2.0\P02-SignOfIntegerNumber.deps.json
+C:\Users\Petko Pedev\source\repos\05.MethodsAndDebugging-Lab\P02-SignOfIntegerNumber\bin\Debug\netcoreapp2.0\P02-SignOfIntegerNumber.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\05.MethodsAndDebugging-Lab\P02-SignOfIntegerNumber\bin\Debug\netcoreapp2.0\P02-SignOfIntegerNumber.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\05.MethodsAndDebugging-Lab\P02-SignOfIntegerNumber\bin\Debug\netcoreapp2.0\P02-SignOfIntegerNumber.dll
+C:\Users\Petko Pedev\source\repos\05.MethodsAndDebugging-Lab\P02-SignOfIntegerNumber\bin\Debug\netcoreapp2.0\P02-SignOfIntegerNumber.pdb
+C:\Users\Petko Pedev\source\repos\05.MethodsAndDebugging-Lab\P02-SignOfIntegerNumber\obj\Debug\netcoreapp2.0\P02-SignOfIntegerNumber.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\05.MethodsAndDebugging-Lab\P02-SignOfIntegerNumber\obj\Debug\netcoreapp2.0\P02-SignOfIntegerNumber.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\05.MethodsAndDebugging-Lab\P02-SignOfIntegerNumber\obj\Debug\netcoreapp2.0\P02-SignOfIntegerNumber.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\05.MethodsAndDebugging-Lab\P02-SignOfIntegerNumber\obj\Debug\netcoreapp2.0\P02-SignOfIntegerNumber.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\05.MethodsAndDebugging-Lab\P02-SignOfIntegerNumber\obj\Debug\netcoreapp2.0\P02-SignOfIntegerNumber.dll
+C:\Users\Petko Pedev\source\repos\05.MethodsAndDebugging-Lab\P02-SignOfIntegerNumber\obj\Debug\netcoreapp2.0\P02-SignOfIntegerNumber.pdb
