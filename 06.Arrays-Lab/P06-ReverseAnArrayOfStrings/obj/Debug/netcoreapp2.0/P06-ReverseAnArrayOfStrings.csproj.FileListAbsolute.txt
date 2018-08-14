@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P06-ReverseAnArrayOfStrings\bin\Debug\netcoreapp2.0\P06-ReverseAnArrayOfStrings.deps.json
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P06-ReverseAnArrayOfStrings\bin\Debug\netcoreapp2.0\P06-ReverseAnArrayOfStrings.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P06-ReverseAnArrayOfStrings\bin\Debug\netcoreapp2.0\P06-ReverseAnArrayOfStrings.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P06-ReverseAnArrayOfStrings\bin\Debug\netcoreapp2.0\P06-ReverseAnArrayOfStrings.dll
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P06-ReverseAnArrayOfStrings\bin\Debug\netcoreapp2.0\P06-ReverseAnArrayOfStrings.pdb
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P06-ReverseAnArrayOfStrings\obj\Debug\netcoreapp2.0\P06-ReverseAnArrayOfStrings.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P06-ReverseAnArrayOfStrings\obj\Debug\netcoreapp2.0\P06-ReverseAnArrayOfStrings.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P06-ReverseAnArrayOfStrings\obj\Debug\netcoreapp2.0\P06-ReverseAnArrayOfStrings.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P06-ReverseAnArrayOfStrings\obj\Debug\netcoreapp2.0\P06-ReverseAnArrayOfStrings.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P06-ReverseAnArrayOfStrings\obj\Debug\netcoreapp2.0\P06-ReverseAnArrayOfStrings.dll
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P06-ReverseAnArrayOfStrings\obj\Debug\netcoreapp2.0\P06-ReverseAnArrayOfStrings.pdb

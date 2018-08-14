@@ -1,0 +1,11 @@
+c:\users\petko pedev\source\repos\06.Arrays-Excersises\P01-LargestCommonEnd\bin\Debug\netcoreapp2.0\P01-LargestCommonEnd.deps.json
+c:\users\petko pedev\source\repos\06.Arrays-Excersises\P01-LargestCommonEnd\bin\Debug\netcoreapp2.0\P01-LargestCommonEnd.runtimeconfig.json
+c:\users\petko pedev\source\repos\06.Arrays-Excersises\P01-LargestCommonEnd\bin\Debug\netcoreapp2.0\P01-LargestCommonEnd.runtimeconfig.dev.json
+c:\users\petko pedev\source\repos\06.Arrays-Excersises\P01-LargestCommonEnd\bin\Debug\netcoreapp2.0\P01-LargestCommonEnd.dll
+c:\users\petko pedev\source\repos\06.Arrays-Excersises\P01-LargestCommonEnd\bin\Debug\netcoreapp2.0\P01-LargestCommonEnd.pdb
+c:\users\petko pedev\source\repos\06.Arrays-Excersises\P01-LargestCommonEnd\obj\Debug\netcoreapp2.0\P01-LargestCommonEnd.csprojAssemblyReference.cache
+c:\users\petko pedev\source\repos\06.Arrays-Excersises\P01-LargestCommonEnd\obj\Debug\netcoreapp2.0\P01-LargestCommonEnd.csproj.CoreCompileInputs.cache
+c:\users\petko pedev\source\repos\06.Arrays-Excersises\P01-LargestCommonEnd\obj\Debug\netcoreapp2.0\P01-LargestCommonEnd.AssemblyInfoInputs.cache
+c:\users\petko pedev\source\repos\06.Arrays-Excersises\P01-LargestCommonEnd\obj\Debug\netcoreapp2.0\P01-LargestCommonEnd.AssemblyInfo.cs
+c:\users\petko pedev\source\repos\06.Arrays-Excersises\P01-LargestCommonEnd\obj\Debug\netcoreapp2.0\P01-LargestCommonEnd.dll
+c:\users\petko pedev\source\repos\06.Arrays-Excersises\P01-LargestCommonEnd\obj\Debug\netcoreapp2.0\P01-LargestCommonEnd.pdb

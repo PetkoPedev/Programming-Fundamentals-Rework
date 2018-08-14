@@ -1,0 +1,11 @@
+c:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P04-SieveOfErathosthenes\bin\Debug\netcoreapp2.0\P04-SieveOfErathosthenes.deps.json
+c:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P04-SieveOfErathosthenes\bin\Debug\netcoreapp2.0\P04-SieveOfErathosthenes.runtimeconfig.json
+c:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P04-SieveOfErathosthenes\bin\Debug\netcoreapp2.0\P04-SieveOfErathosthenes.runtimeconfig.dev.json
+c:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P04-SieveOfErathosthenes\bin\Debug\netcoreapp2.0\P04-SieveOfErathosthenes.dll
+c:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P04-SieveOfErathosthenes\bin\Debug\netcoreapp2.0\P04-SieveOfErathosthenes.pdb
+c:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P04-SieveOfErathosthenes\obj\Debug\netcoreapp2.0\P04-SieveOfErathosthenes.csprojAssemblyReference.cache
+c:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P04-SieveOfErathosthenes\obj\Debug\netcoreapp2.0\P04-SieveOfErathosthenes.csproj.CoreCompileInputs.cache
+c:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P04-SieveOfErathosthenes\obj\Debug\netcoreapp2.0\P04-SieveOfErathosthenes.AssemblyInfoInputs.cache
+c:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P04-SieveOfErathosthenes\obj\Debug\netcoreapp2.0\P04-SieveOfErathosthenes.AssemblyInfo.cs
+c:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P04-SieveOfErathosthenes\obj\Debug\netcoreapp2.0\P04-SieveOfErathosthenes.dll
+c:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P04-SieveOfErathosthenes\obj\Debug\netcoreapp2.0\P04-SieveOfErathosthenes.pdb

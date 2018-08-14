@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P09-ExtractMiddle123Elements\bin\Debug\netcoreapp2.0\P09-ExtractMiddle123Elements.deps.json
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P09-ExtractMiddle123Elements\bin\Debug\netcoreapp2.0\P09-ExtractMiddle123Elements.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P09-ExtractMiddle123Elements\bin\Debug\netcoreapp2.0\P09-ExtractMiddle123Elements.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P09-ExtractMiddle123Elements\bin\Debug\netcoreapp2.0\P09-ExtractMiddle123Elements.dll
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P09-ExtractMiddle123Elements\bin\Debug\netcoreapp2.0\P09-ExtractMiddle123Elements.pdb
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P09-ExtractMiddle123Elements\obj\Debug\netcoreapp2.0\P09-ExtractMiddle123Elements.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P09-ExtractMiddle123Elements\obj\Debug\netcoreapp2.0\P09-ExtractMiddle123Elements.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P09-ExtractMiddle123Elements\obj\Debug\netcoreapp2.0\P09-ExtractMiddle123Elements.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P09-ExtractMiddle123Elements\obj\Debug\netcoreapp2.0\P09-ExtractMiddle123Elements.dll
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P09-ExtractMiddle123Elements\obj\Debug\netcoreapp2.0\P09-ExtractMiddle123Elements.pdb

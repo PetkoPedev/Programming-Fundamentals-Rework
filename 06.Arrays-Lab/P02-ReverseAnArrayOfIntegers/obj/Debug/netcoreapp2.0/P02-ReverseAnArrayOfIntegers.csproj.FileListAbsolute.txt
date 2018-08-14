@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P02-ReverseAnArrayOfIntegers\bin\Debug\netcoreapp2.0\P02-ReverseAnArrayOfIntegers.deps.json
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P02-ReverseAnArrayOfIntegers\bin\Debug\netcoreapp2.0\P02-ReverseAnArrayOfIntegers.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P02-ReverseAnArrayOfIntegers\bin\Debug\netcoreapp2.0\P02-ReverseAnArrayOfIntegers.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P02-ReverseAnArrayOfIntegers\bin\Debug\netcoreapp2.0\P02-ReverseAnArrayOfIntegers.dll
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P02-ReverseAnArrayOfIntegers\bin\Debug\netcoreapp2.0\P02-ReverseAnArrayOfIntegers.pdb
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P02-ReverseAnArrayOfIntegers\obj\Debug\netcoreapp2.0\P02-ReverseAnArrayOfIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P02-ReverseAnArrayOfIntegers\obj\Debug\netcoreapp2.0\P02-ReverseAnArrayOfIntegers.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P02-ReverseAnArrayOfIntegers\obj\Debug\netcoreapp2.0\P02-ReverseAnArrayOfIntegers.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P02-ReverseAnArrayOfIntegers\obj\Debug\netcoreapp2.0\P02-ReverseAnArrayOfIntegers.dll
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P02-ReverseAnArrayOfIntegers\obj\Debug\netcoreapp2.0\P02-ReverseAnArrayOfIntegers.pdb

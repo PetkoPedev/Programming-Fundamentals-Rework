@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P07-MaxSequenceOfIncreasingElements\bin\Debug\netcoreapp2.0\P07-MaxSequenceOfIncreasingElements.deps.json
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P07-MaxSequenceOfIncreasingElements\bin\Debug\netcoreapp2.0\P07-MaxSequenceOfIncreasingElements.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P07-MaxSequenceOfIncreasingElements\bin\Debug\netcoreapp2.0\P07-MaxSequenceOfIncreasingElements.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P07-MaxSequenceOfIncreasingElements\bin\Debug\netcoreapp2.0\P07-MaxSequenceOfIncreasingElements.dll
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P07-MaxSequenceOfIncreasingElements\bin\Debug\netcoreapp2.0\P07-MaxSequenceOfIncreasingElements.pdb
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P07-MaxSequenceOfIncreasingElements\obj\Debug\netcoreapp2.0\P07-MaxSequenceOfIncreasingElements.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P07-MaxSequenceOfIncreasingElements\obj\Debug\netcoreapp2.0\P07-MaxSequenceOfIncreasingElements.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P07-MaxSequenceOfIncreasingElements\obj\Debug\netcoreapp2.0\P07-MaxSequenceOfIncreasingElements.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P07-MaxSequenceOfIncreasingElements\obj\Debug\netcoreapp2.0\P07-MaxSequenceOfIncreasingElements.dll
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P07-MaxSequenceOfIncreasingElements\obj\Debug\netcoreapp2.0\P07-MaxSequenceOfIncreasingElements.pdb

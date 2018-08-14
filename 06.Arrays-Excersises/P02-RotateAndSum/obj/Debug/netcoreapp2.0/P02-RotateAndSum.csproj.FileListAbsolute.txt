@@ -1,0 +1,11 @@
+c:\users\petko pedev\source\repos\06.Arrays-Excersises\P02-RotateAndSum\bin\Debug\netcoreapp2.0\P02-RotateAndSum.deps.json
+c:\users\petko pedev\source\repos\06.Arrays-Excersises\P02-RotateAndSum\bin\Debug\netcoreapp2.0\P02-RotateAndSum.runtimeconfig.json
+c:\users\petko pedev\source\repos\06.Arrays-Excersises\P02-RotateAndSum\bin\Debug\netcoreapp2.0\P02-RotateAndSum.runtimeconfig.dev.json
+c:\users\petko pedev\source\repos\06.Arrays-Excersises\P02-RotateAndSum\bin\Debug\netcoreapp2.0\P02-RotateAndSum.dll
+c:\users\petko pedev\source\repos\06.Arrays-Excersises\P02-RotateAndSum\bin\Debug\netcoreapp2.0\P02-RotateAndSum.pdb
+c:\users\petko pedev\source\repos\06.Arrays-Excersises\P02-RotateAndSum\obj\Debug\netcoreapp2.0\P02-RotateAndSum.csprojAssemblyReference.cache
+c:\users\petko pedev\source\repos\06.Arrays-Excersises\P02-RotateAndSum\obj\Debug\netcoreapp2.0\P02-RotateAndSum.csproj.CoreCompileInputs.cache
+c:\users\petko pedev\source\repos\06.Arrays-Excersises\P02-RotateAndSum\obj\Debug\netcoreapp2.0\P02-RotateAndSum.AssemblyInfoInputs.cache
+c:\users\petko pedev\source\repos\06.Arrays-Excersises\P02-RotateAndSum\obj\Debug\netcoreapp2.0\P02-RotateAndSum.AssemblyInfo.cs
+c:\users\petko pedev\source\repos\06.Arrays-Excersises\P02-RotateAndSum\obj\Debug\netcoreapp2.0\P02-RotateAndSum.dll
+c:\users\petko pedev\source\repos\06.Arrays-Excersises\P02-RotateAndSum\obj\Debug\netcoreapp2.0\P02-RotateAndSum.pdb

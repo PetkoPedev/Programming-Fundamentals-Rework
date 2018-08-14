@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P07-SumArrays\bin\Debug\netcoreapp2.0\P07-SumArrays.deps.json
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P07-SumArrays\bin\Debug\netcoreapp2.0\P07-SumArrays.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P07-SumArrays\bin\Debug\netcoreapp2.0\P07-SumArrays.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P07-SumArrays\bin\Debug\netcoreapp2.0\P07-SumArrays.dll
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P07-SumArrays\bin\Debug\netcoreapp2.0\P07-SumArrays.pdb
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P07-SumArrays\obj\Debug\netcoreapp2.0\P07-SumArrays.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P07-SumArrays\obj\Debug\netcoreapp2.0\P07-SumArrays.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P07-SumArrays\obj\Debug\netcoreapp2.0\P07-SumArrays.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P07-SumArrays\obj\Debug\netcoreapp2.0\P07-SumArrays.dll
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P07-SumArrays\obj\Debug\netcoreapp2.0\P07-SumArrays.pdb

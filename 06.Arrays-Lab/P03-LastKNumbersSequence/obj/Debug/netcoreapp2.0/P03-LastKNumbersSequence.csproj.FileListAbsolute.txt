@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P03-LastKNumbersSequence\bin\Debug\netcoreapp2.0\P03-LastKNumbersSequence.deps.json
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P03-LastKNumbersSequence\bin\Debug\netcoreapp2.0\P03-LastKNumbersSequence.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P03-LastKNumbersSequence\bin\Debug\netcoreapp2.0\P03-LastKNumbersSequence.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P03-LastKNumbersSequence\bin\Debug\netcoreapp2.0\P03-LastKNumbersSequence.dll
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P03-LastKNumbersSequence\bin\Debug\netcoreapp2.0\P03-LastKNumbersSequence.pdb
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P03-LastKNumbersSequence\obj\Debug\netcoreapp2.0\P03-LastKNumbersSequence.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P03-LastKNumbersSequence\obj\Debug\netcoreapp2.0\P03-LastKNumbersSequence.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P03-LastKNumbersSequence\obj\Debug\netcoreapp2.0\P03-LastKNumbersSequence.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P03-LastKNumbersSequence\obj\Debug\netcoreapp2.0\P03-LastKNumbersSequence.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P03-LastKNumbersSequence\obj\Debug\netcoreapp2.0\P03-LastKNumbersSequence.dll
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P03-LastKNumbersSequence\obj\Debug\netcoreapp2.0\P03-LastKNumbersSequence.pdb

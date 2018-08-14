@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P04-TripleSum\bin\Debug\netcoreapp2.0\P04-TripleSum.deps.json
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P04-TripleSum\bin\Debug\netcoreapp2.0\P04-TripleSum.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P04-TripleSum\bin\Debug\netcoreapp2.0\P04-TripleSum.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P04-TripleSum\bin\Debug\netcoreapp2.0\P04-TripleSum.dll
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P04-TripleSum\bin\Debug\netcoreapp2.0\P04-TripleSum.pdb
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P04-TripleSum\obj\Debug\netcoreapp2.0\P04-TripleSum.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P04-TripleSum\obj\Debug\netcoreapp2.0\P04-TripleSum.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P04-TripleSum\obj\Debug\netcoreapp2.0\P04-TripleSum.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P04-TripleSum\obj\Debug\netcoreapp2.0\P04-TripleSum.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P04-TripleSum\obj\Debug\netcoreapp2.0\P04-TripleSum.dll
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P04-TripleSum\obj\Debug\netcoreapp2.0\P04-TripleSum.pdb

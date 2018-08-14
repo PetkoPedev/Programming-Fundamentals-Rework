@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P11-EqualSums\bin\Debug\netcoreapp2.0\P11-EqualSums.deps.json
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P11-EqualSums\bin\Debug\netcoreapp2.0\P11-EqualSums.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P11-EqualSums\bin\Debug\netcoreapp2.0\P11-EqualSums.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P11-EqualSums\bin\Debug\netcoreapp2.0\P11-EqualSums.dll
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P11-EqualSums\bin\Debug\netcoreapp2.0\P11-EqualSums.pdb
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P11-EqualSums\obj\Debug\netcoreapp2.0\P11-EqualSums.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P11-EqualSums\obj\Debug\netcoreapp2.0\P11-EqualSums.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P11-EqualSums\obj\Debug\netcoreapp2.0\P11-EqualSums.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P11-EqualSums\obj\Debug\netcoreapp2.0\P11-EqualSums.dll
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P11-EqualSums\obj\Debug\netcoreapp2.0\P11-EqualSums.pdb

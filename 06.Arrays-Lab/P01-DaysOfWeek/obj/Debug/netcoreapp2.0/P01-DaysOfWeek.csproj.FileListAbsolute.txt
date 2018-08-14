@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P01-DaysOfWeek\bin\Debug\netcoreapp2.0\P01-DaysOfWeek.deps.json
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P01-DaysOfWeek\bin\Debug\netcoreapp2.0\P01-DaysOfWeek.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P01-DaysOfWeek\bin\Debug\netcoreapp2.0\P01-DaysOfWeek.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P01-DaysOfWeek\bin\Debug\netcoreapp2.0\P01-DaysOfWeek.dll
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P01-DaysOfWeek\bin\Debug\netcoreapp2.0\P01-DaysOfWeek.pdb
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P01-DaysOfWeek\obj\Debug\netcoreapp2.0\P01-DaysOfWeek.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P01-DaysOfWeek\obj\Debug\netcoreapp2.0\P01-DaysOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P01-DaysOfWeek\obj\Debug\netcoreapp2.0\P01-DaysOfWeek.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P01-DaysOfWeek\obj\Debug\netcoreapp2.0\P01-DaysOfWeek.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P01-DaysOfWeek\obj\Debug\netcoreapp2.0\P01-DaysOfWeek.dll
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P01-DaysOfWeek\obj\Debug\netcoreapp2.0\P01-DaysOfWeek.pdb

@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P05-CompareCharArrays\bin\Debug\netcoreapp2.0\P05-CompareCharArrays.deps.json
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P05-CompareCharArrays\bin\Debug\netcoreapp2.0\P05-CompareCharArrays.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P05-CompareCharArrays\bin\Debug\netcoreapp2.0\P05-CompareCharArrays.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P05-CompareCharArrays\bin\Debug\netcoreapp2.0\P05-CompareCharArrays.dll
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P05-CompareCharArrays\bin\Debug\netcoreapp2.0\P05-CompareCharArrays.pdb
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P05-CompareCharArrays\obj\Debug\netcoreapp2.0\P05-CompareCharArrays.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P05-CompareCharArrays\obj\Debug\netcoreapp2.0\P05-CompareCharArrays.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P05-CompareCharArrays\obj\Debug\netcoreapp2.0\P05-CompareCharArrays.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P05-CompareCharArrays\obj\Debug\netcoreapp2.0\P05-CompareCharArrays.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P05-CompareCharArrays\obj\Debug\netcoreapp2.0\P05-CompareCharArrays.dll
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P05-CompareCharArrays\obj\Debug\netcoreapp2.0\P05-CompareCharArrays.pdb

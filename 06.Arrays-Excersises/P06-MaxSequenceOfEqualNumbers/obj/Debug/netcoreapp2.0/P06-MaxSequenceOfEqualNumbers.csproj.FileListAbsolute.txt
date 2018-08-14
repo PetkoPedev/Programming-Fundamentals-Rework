@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P06-MaxSequenceOfEqualNumbers\bin\Debug\netcoreapp2.0\P06-MaxSequenceOfEqualNumbers.deps.json
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P06-MaxSequenceOfEqualNumbers\bin\Debug\netcoreapp2.0\P06-MaxSequenceOfEqualNumbers.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P06-MaxSequenceOfEqualNumbers\bin\Debug\netcoreapp2.0\P06-MaxSequenceOfEqualNumbers.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P06-MaxSequenceOfEqualNumbers\bin\Debug\netcoreapp2.0\P06-MaxSequenceOfEqualNumbers.dll
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P06-MaxSequenceOfEqualNumbers\bin\Debug\netcoreapp2.0\P06-MaxSequenceOfEqualNumbers.pdb
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P06-MaxSequenceOfEqualNumbers\obj\Debug\netcoreapp2.0\P06-MaxSequenceOfEqualNumbers.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P06-MaxSequenceOfEqualNumbers\obj\Debug\netcoreapp2.0\P06-MaxSequenceOfEqualNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P06-MaxSequenceOfEqualNumbers\obj\Debug\netcoreapp2.0\P06-MaxSequenceOfEqualNumbers.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P06-MaxSequenceOfEqualNumbers\obj\Debug\netcoreapp2.0\P06-MaxSequenceOfEqualNumbers.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P06-MaxSequenceOfEqualNumbers\obj\Debug\netcoreapp2.0\P06-MaxSequenceOfEqualNumbers.dll
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P06-MaxSequenceOfEqualNumbers\obj\Debug\netcoreapp2.0\P06-MaxSequenceOfEqualNumbers.pdb

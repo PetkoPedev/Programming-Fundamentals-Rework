@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P09-IndexOfLetters\bin\Debug\netcoreapp2.0\P09-IndexOfLetters.deps.json
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P09-IndexOfLetters\bin\Debug\netcoreapp2.0\P09-IndexOfLetters.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P09-IndexOfLetters\bin\Debug\netcoreapp2.0\P09-IndexOfLetters.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P09-IndexOfLetters\bin\Debug\netcoreapp2.0\P09-IndexOfLetters.dll
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P09-IndexOfLetters\bin\Debug\netcoreapp2.0\P09-IndexOfLetters.pdb
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P09-IndexOfLetters\obj\Debug\netcoreapp2.0\P09-IndexOfLetters.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P09-IndexOfLetters\obj\Debug\netcoreapp2.0\P09-IndexOfLetters.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P09-IndexOfLetters\obj\Debug\netcoreapp2.0\P09-IndexOfLetters.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P09-IndexOfLetters\obj\Debug\netcoreapp2.0\P09-IndexOfLetters.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P09-IndexOfLetters\obj\Debug\netcoreapp2.0\P09-IndexOfLetters.dll
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P09-IndexOfLetters\obj\Debug\netcoreapp2.0\P09-IndexOfLetters.pdb

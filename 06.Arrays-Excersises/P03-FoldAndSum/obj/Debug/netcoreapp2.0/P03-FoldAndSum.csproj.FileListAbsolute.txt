@@ -1,0 +1,11 @@
+c:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P03-FoldAndSum\bin\Debug\netcoreapp2.0\P03-FoldAndSum.deps.json
+c:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P03-FoldAndSum\bin\Debug\netcoreapp2.0\P03-FoldAndSum.runtimeconfig.json
+c:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P03-FoldAndSum\bin\Debug\netcoreapp2.0\P03-FoldAndSum.runtimeconfig.dev.json
+c:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P03-FoldAndSum\bin\Debug\netcoreapp2.0\P03-FoldAndSum.dll
+c:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P03-FoldAndSum\bin\Debug\netcoreapp2.0\P03-FoldAndSum.pdb
+c:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P03-FoldAndSum\obj\Debug\netcoreapp2.0\P03-FoldAndSum.csprojAssemblyReference.cache
+c:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P03-FoldAndSum\obj\Debug\netcoreapp2.0\P03-FoldAndSum.csproj.CoreCompileInputs.cache
+c:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P03-FoldAndSum\obj\Debug\netcoreapp2.0\P03-FoldAndSum.AssemblyInfoInputs.cache
+c:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P03-FoldAndSum\obj\Debug\netcoreapp2.0\P03-FoldAndSum.AssemblyInfo.cs
+c:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P03-FoldAndSum\obj\Debug\netcoreapp2.0\P03-FoldAndSum.dll
+c:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P03-FoldAndSum\obj\Debug\netcoreapp2.0\P03-FoldAndSum.pdb

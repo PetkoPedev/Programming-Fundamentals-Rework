@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P08-MostFrequentNumber\bin\Debug\netcoreapp2.0\P08-MostFrequentNumber.deps.json
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P08-MostFrequentNumber\bin\Debug\netcoreapp2.0\P08-MostFrequentNumber.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P08-MostFrequentNumber\bin\Debug\netcoreapp2.0\P08-MostFrequentNumber.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P08-MostFrequentNumber\bin\Debug\netcoreapp2.0\P08-MostFrequentNumber.dll
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P08-MostFrequentNumber\bin\Debug\netcoreapp2.0\P08-MostFrequentNumber.pdb
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P08-MostFrequentNumber\obj\Debug\netcoreapp2.0\P08-MostFrequentNumber.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P08-MostFrequentNumber\obj\Debug\netcoreapp2.0\P08-MostFrequentNumber.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P08-MostFrequentNumber\obj\Debug\netcoreapp2.0\P08-MostFrequentNumber.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P08-MostFrequentNumber\obj\Debug\netcoreapp2.0\P08-MostFrequentNumber.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P08-MostFrequentNumber\obj\Debug\netcoreapp2.0\P08-MostFrequentNumber.dll
+C:\Users\Petko Pedev\source\repos\06.Arrays-Excersises\P08-MostFrequentNumber\obj\Debug\netcoreapp2.0\P08-MostFrequentNumber.pdb

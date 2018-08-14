@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P05-RoundingAwayFromZero\bin\Debug\netcoreapp2.0\P05-RoundingAwayFromZero.deps.json
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P05-RoundingAwayFromZero\bin\Debug\netcoreapp2.0\P05-RoundingAwayFromZero.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P05-RoundingAwayFromZero\bin\Debug\netcoreapp2.0\P05-RoundingAwayFromZero.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P05-RoundingAwayFromZero\bin\Debug\netcoreapp2.0\P05-RoundingAwayFromZero.dll
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P05-RoundingAwayFromZero\bin\Debug\netcoreapp2.0\P05-RoundingAwayFromZero.pdb
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P05-RoundingAwayFromZero\obj\Debug\netcoreapp2.0\P05-RoundingAwayFromZero.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P05-RoundingAwayFromZero\obj\Debug\netcoreapp2.0\P05-RoundingAwayFromZero.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P05-RoundingAwayFromZero\obj\Debug\netcoreapp2.0\P05-RoundingAwayFromZero.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P05-RoundingAwayFromZero\obj\Debug\netcoreapp2.0\P05-RoundingAwayFromZero.dll
+C:\Users\Petko Pedev\source\repos\06.Arrays-Lab\P05-RoundingAwayFromZero\obj\Debug\netcoreapp2.0\P05-RoundingAwayFromZero.pdb
