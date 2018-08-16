@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\06.ArraysAndMethods-MoreExcercises\P05-PizzaIngredients\bin\Debug\netcoreapp2.0\P05-PizzaIngredients.deps.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\06.ArraysAndMethods-MoreExcercises\P05-PizzaIngredients\bin\Debug\netcoreapp2.0\P05-PizzaIngredients.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\06.ArraysAndMethods-MoreExcercises\P05-PizzaIngredients\bin\Debug\netcoreapp2.0\P05-PizzaIngredients.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\06.ArraysAndMethods-MoreExcercises\P05-PizzaIngredients\bin\Debug\netcoreapp2.0\P05-PizzaIngredients.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\06.ArraysAndMethods-MoreExcercises\P05-PizzaIngredients\bin\Debug\netcoreapp2.0\P05-PizzaIngredients.pdb
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\06.ArraysAndMethods-MoreExcercises\P05-PizzaIngredients\obj\Debug\netcoreapp2.0\P05-PizzaIngredients.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\06.ArraysAndMethods-MoreExcercises\P05-PizzaIngredients\obj\Debug\netcoreapp2.0\P05-PizzaIngredients.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\06.ArraysAndMethods-MoreExcercises\P05-PizzaIngredients\obj\Debug\netcoreapp2.0\P05-PizzaIngredients.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\06.ArraysAndMethods-MoreExcercises\P05-PizzaIngredients\obj\Debug\netcoreapp2.0\P05-PizzaIngredients.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\06.ArraysAndMethods-MoreExcercises\P05-PizzaIngredients\obj\Debug\netcoreapp2.0\P05-PizzaIngredients.pdb
