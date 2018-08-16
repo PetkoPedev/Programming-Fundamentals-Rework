@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\repos\06.ArraysAndMethods-MoreExcercises\P02-ManipulateArray\bin\Debug\netcoreapp2.0\P02-ManipulateArray.deps.json
+C:\Users\Petko Pedev\source\repos\06.ArraysAndMethods-MoreExcercises\P02-ManipulateArray\bin\Debug\netcoreapp2.0\P02-ManipulateArray.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\06.ArraysAndMethods-MoreExcercises\P02-ManipulateArray\bin\Debug\netcoreapp2.0\P02-ManipulateArray.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\06.ArraysAndMethods-MoreExcercises\P02-ManipulateArray\bin\Debug\netcoreapp2.0\P02-ManipulateArray.dll
+C:\Users\Petko Pedev\source\repos\06.ArraysAndMethods-MoreExcercises\P02-ManipulateArray\bin\Debug\netcoreapp2.0\P02-ManipulateArray.pdb
+C:\Users\Petko Pedev\source\repos\06.ArraysAndMethods-MoreExcercises\P02-ManipulateArray\obj\Debug\netcoreapp2.0\P02-ManipulateArray.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\06.ArraysAndMethods-MoreExcercises\P02-ManipulateArray\obj\Debug\netcoreapp2.0\P02-ManipulateArray.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\06.ArraysAndMethods-MoreExcercises\P02-ManipulateArray\obj\Debug\netcoreapp2.0\P02-ManipulateArray.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\06.ArraysAndMethods-MoreExcercises\P02-ManipulateArray\obj\Debug\netcoreapp2.0\P02-ManipulateArray.dll
+C:\Users\Petko Pedev\source\repos\06.ArraysAndMethods-MoreExcercises\P02-ManipulateArray\obj\Debug\netcoreapp2.0\P02-ManipulateArray.pdb

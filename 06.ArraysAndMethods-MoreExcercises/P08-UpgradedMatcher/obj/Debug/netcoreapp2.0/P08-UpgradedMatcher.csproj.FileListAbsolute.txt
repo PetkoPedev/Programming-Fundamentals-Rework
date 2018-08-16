@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\06.ArraysAndMethods-MoreExcercises\P08-UpgradedMatcher\bin\Debug\netcoreapp2.0\P08-UpgradedMatcher.deps.json
+C:\Users\Petko Pedev\source\repos\06.ArraysAndMethods-MoreExcercises\P08-UpgradedMatcher\bin\Debug\netcoreapp2.0\P08-UpgradedMatcher.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\06.ArraysAndMethods-MoreExcercises\P08-UpgradedMatcher\bin\Debug\netcoreapp2.0\P08-UpgradedMatcher.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\06.ArraysAndMethods-MoreExcercises\P08-UpgradedMatcher\bin\Debug\netcoreapp2.0\P08-UpgradedMatcher.dll
+C:\Users\Petko Pedev\source\repos\06.ArraysAndMethods-MoreExcercises\P08-UpgradedMatcher\bin\Debug\netcoreapp2.0\P08-UpgradedMatcher.pdb
+C:\Users\Petko Pedev\source\repos\06.ArraysAndMethods-MoreExcercises\P08-UpgradedMatcher\obj\Debug\netcoreapp2.0\P08-UpgradedMatcher.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\06.ArraysAndMethods-MoreExcercises\P08-UpgradedMatcher\obj\Debug\netcoreapp2.0\P08-UpgradedMatcher.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\06.ArraysAndMethods-MoreExcercises\P08-UpgradedMatcher\obj\Debug\netcoreapp2.0\P08-UpgradedMatcher.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\06.ArraysAndMethods-MoreExcercises\P08-UpgradedMatcher\obj\Debug\netcoreapp2.0\P08-UpgradedMatcher.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\06.ArraysAndMethods-MoreExcercises\P08-UpgradedMatcher\obj\Debug\netcoreapp2.0\P08-UpgradedMatcher.dll
+C:\Users\Petko Pedev\source\repos\06.ArraysAndMethods-MoreExcercises\P08-UpgradedMatcher\obj\Debug\netcoreapp2.0\P08-UpgradedMatcher.pdb

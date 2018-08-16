@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\06.ArraysAndMethods-MoreExcercises\P03-SafeManipulation\bin\Debug\netcoreapp2.0\P03-SafeManipulation.deps.json
+C:\Users\Petko Pedev\source\repos\06.ArraysAndMethods-MoreExcercises\P03-SafeManipulation\bin\Debug\netcoreapp2.0\P03-SafeManipulation.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\06.ArraysAndMethods-MoreExcercises\P03-SafeManipulation\bin\Debug\netcoreapp2.0\P03-SafeManipulation.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\06.ArraysAndMethods-MoreExcercises\P03-SafeManipulation\bin\Debug\netcoreapp2.0\P03-SafeManipulation.dll
+C:\Users\Petko Pedev\source\repos\06.ArraysAndMethods-MoreExcercises\P03-SafeManipulation\bin\Debug\netcoreapp2.0\P03-SafeManipulation.pdb
+C:\Users\Petko Pedev\source\repos\06.ArraysAndMethods-MoreExcercises\P03-SafeManipulation\obj\Debug\netcoreapp2.0\P03-SafeManipulation.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\06.ArraysAndMethods-MoreExcercises\P03-SafeManipulation\obj\Debug\netcoreapp2.0\P03-SafeManipulation.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\06.ArraysAndMethods-MoreExcercises\P03-SafeManipulation\obj\Debug\netcoreapp2.0\P03-SafeManipulation.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\06.ArraysAndMethods-MoreExcercises\P03-SafeManipulation\obj\Debug\netcoreapp2.0\P03-SafeManipulation.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\06.ArraysAndMethods-MoreExcercises\P03-SafeManipulation\obj\Debug\netcoreapp2.0\P03-SafeManipulation.dll
+C:\Users\Petko Pedev\source\repos\06.ArraysAndMethods-MoreExcercises\P03-SafeManipulation\obj\Debug\netcoreapp2.0\P03-SafeManipulation.pdb

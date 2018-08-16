@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\06.ArraysAndMethods-MoreExcercises\P04-GrabAndGo\bin\Debug\netcoreapp2.0\P04-GrabAndGo.deps.json
+C:\Users\Petko Pedev\source\repos\06.ArraysAndMethods-MoreExcercises\P04-GrabAndGo\bin\Debug\netcoreapp2.0\P04-GrabAndGo.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\06.ArraysAndMethods-MoreExcercises\P04-GrabAndGo\bin\Debug\netcoreapp2.0\P04-GrabAndGo.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\06.ArraysAndMethods-MoreExcercises\P04-GrabAndGo\bin\Debug\netcoreapp2.0\P04-GrabAndGo.dll
+C:\Users\Petko Pedev\source\repos\06.ArraysAndMethods-MoreExcercises\P04-GrabAndGo\bin\Debug\netcoreapp2.0\P04-GrabAndGo.pdb
+C:\Users\Petko Pedev\source\repos\06.ArraysAndMethods-MoreExcercises\P04-GrabAndGo\obj\Debug\netcoreapp2.0\P04-GrabAndGo.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\06.ArraysAndMethods-MoreExcercises\P04-GrabAndGo\obj\Debug\netcoreapp2.0\P04-GrabAndGo.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\06.ArraysAndMethods-MoreExcercises\P04-GrabAndGo\obj\Debug\netcoreapp2.0\P04-GrabAndGo.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\06.ArraysAndMethods-MoreExcercises\P04-GrabAndGo\obj\Debug\netcoreapp2.0\P04-GrabAndGo.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\06.ArraysAndMethods-MoreExcercises\P04-GrabAndGo\obj\Debug\netcoreapp2.0\P04-GrabAndGo.dll
+C:\Users\Petko Pedev\source\repos\06.ArraysAndMethods-MoreExcercises\P04-GrabAndGo\obj\Debug\netcoreapp2.0\P04-GrabAndGo.pdb

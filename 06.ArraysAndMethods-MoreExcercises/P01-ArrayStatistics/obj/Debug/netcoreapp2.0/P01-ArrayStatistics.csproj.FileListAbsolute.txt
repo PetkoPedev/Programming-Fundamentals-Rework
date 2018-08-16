@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\06.ArraysAndMethods-MoreExcercises\P01-ArrayStatistics\bin\Debug\netcoreapp2.0\P01-ArrayStatistics.deps.json
+C:\Users\Petko Pedev\source\repos\06.ArraysAndMethods-MoreExcercises\P01-ArrayStatistics\bin\Debug\netcoreapp2.0\P01-ArrayStatistics.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\06.ArraysAndMethods-MoreExcercises\P01-ArrayStatistics\bin\Debug\netcoreapp2.0\P01-ArrayStatistics.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\06.ArraysAndMethods-MoreExcercises\P01-ArrayStatistics\bin\Debug\netcoreapp2.0\P01-ArrayStatistics.dll
+C:\Users\Petko Pedev\source\repos\06.ArraysAndMethods-MoreExcercises\P01-ArrayStatistics\bin\Debug\netcoreapp2.0\P01-ArrayStatistics.pdb
+C:\Users\Petko Pedev\source\repos\06.ArraysAndMethods-MoreExcercises\P01-ArrayStatistics\obj\Debug\netcoreapp2.0\P01-ArrayStatistics.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\06.ArraysAndMethods-MoreExcercises\P01-ArrayStatistics\obj\Debug\netcoreapp2.0\P01-ArrayStatistics.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\06.ArraysAndMethods-MoreExcercises\P01-ArrayStatistics\obj\Debug\netcoreapp2.0\P01-ArrayStatistics.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\06.ArraysAndMethods-MoreExcercises\P01-ArrayStatistics\obj\Debug\netcoreapp2.0\P01-ArrayStatistics.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\06.ArraysAndMethods-MoreExcercises\P01-ArrayStatistics\obj\Debug\netcoreapp2.0\P01-ArrayStatistics.dll
+C:\Users\Petko Pedev\source\repos\06.ArraysAndMethods-MoreExcercises\P01-ArrayStatistics\obj\Debug\netcoreapp2.0\P01-ArrayStatistics.pdb
