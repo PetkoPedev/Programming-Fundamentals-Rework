@@ -15,9 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P02-ManipulateArray", "P02-
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P06-Heists", "P06-Heists\P06-Heists.csproj", "{16C6403D-57EA-4C3B-B512-BAB6F5524C1C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P07-InventoryMatcher", "P07-InventoryMatcher\P07-InventoryMatcher.csproj", "{783CFEF2-401F-4C42-AAAF-CE258BF4362F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P07-InventoryMatcher", "P07-InventoryMatcher\P07-InventoryMatcher.csproj", "{783CFEF2-401F-4C42-AAAF-CE258BF4362F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P08-UpgradedMatcher", "P08-UpgradedMatcher\P08-UpgradedMatcher.csproj", "{F9041C96-C157-4C07-BDBE-34FFFB9B1611}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P08-UpgradedMatcher", "P08-UpgradedMatcher\P08-UpgradedMatcher.csproj", "{F9041C96-C157-4C07-BDBE-34FFFB9B1611}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P05-PizzaIngredients", "P05-PizzaIngredients\P05-PizzaIngredients.csproj", "{D481B319-185A-4B2A-8CBC-72A539C025A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{F9041C96-C157-4C07-BDBE-34FFFB9B1611}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9041C96-C157-4C07-BDBE-34FFFB9B1611}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9041C96-C157-4C07-BDBE-34FFFB9B1611}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D481B319-185A-4B2A-8CBC-72A539C025A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D481B319-185A-4B2A-8CBC-72A539C025A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D481B319-185A-4B2A-8CBC-72A539C025A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D481B319-185A-4B2A-8CBC-72A539C025A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

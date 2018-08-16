@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Petko Pedev\\source\\repos\\06.ArraysAndMethods-MoreExcercises\\P02-ManipulateArray\\P02-ManipulateArray.csproj",
+      "projectUniqueName": "C:\\Users\\Petko Pedev\\source\\repos\\Programming-Fundamentals\\Programming-Fundamentals-Rework\\06.ArraysAndMethods-MoreExcercises\\P02-ManipulateArray\\P02-ManipulateArray.csproj",
       "projectName": "P02-ManipulateArray",
-      "projectPath": "C:\\Users\\Petko Pedev\\source\\repos\\06.ArraysAndMethods-MoreExcercises\\P02-ManipulateArray\\P02-ManipulateArray.csproj",
+      "projectPath": "C:\\Users\\Petko Pedev\\source\\repos\\Programming-Fundamentals\\Programming-Fundamentals-Rework\\06.ArraysAndMethods-MoreExcercises\\P02-ManipulateArray\\P02-ManipulateArray.csproj",
       "packagesPath": "C:\\Users\\Petko Pedev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Petko Pedev\\source\\repos\\06.ArraysAndMethods-MoreExcercises\\P02-ManipulateArray\\obj\\",
+      "outputPath": "C:\\Users\\Petko Pedev\\source\\repos\\Programming-Fundamentals\\Programming-Fundamentals-Rework\\06.ArraysAndMethods-MoreExcercises\\P02-ManipulateArray\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

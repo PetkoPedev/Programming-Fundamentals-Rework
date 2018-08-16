@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Petko Pedev\\source\\repos\\06.ArraysAndMethods-MoreExcercises\\P01-ArrayStatistics\\P01-ArrayStatistics.csproj",
+      "projectUniqueName": "C:\\Users\\Petko Pedev\\source\\repos\\Programming-Fundamentals\\Programming-Fundamentals-Rework\\06.ArraysAndMethods-MoreExcercises\\P01-ArrayStatistics\\P01-ArrayStatistics.csproj",
       "projectName": "P01-ArrayStatistics",
-      "projectPath": "C:\\Users\\Petko Pedev\\source\\repos\\06.ArraysAndMethods-MoreExcercises\\P01-ArrayStatistics\\P01-ArrayStatistics.csproj",
+      "projectPath": "C:\\Users\\Petko Pedev\\source\\repos\\Programming-Fundamentals\\Programming-Fundamentals-Rework\\06.ArraysAndMethods-MoreExcercises\\P01-ArrayStatistics\\P01-ArrayStatistics.csproj",
       "packagesPath": "C:\\Users\\Petko Pedev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Petko Pedev\\source\\repos\\06.ArraysAndMethods-MoreExcercises\\P01-ArrayStatistics\\obj\\",
+      "outputPath": "C:\\Users\\Petko Pedev\\source\\repos\\Programming-Fundamentals\\Programming-Fundamentals-Rework\\06.ArraysAndMethods-MoreExcercises\\P01-ArrayStatistics\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

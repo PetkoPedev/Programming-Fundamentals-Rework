@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Petko Pedev\\source\\repos\\06.ArraysAndMethods-MoreExcercises\\P09-JumpAround\\P09-JumpAround.csproj",
+      "projectUniqueName": "C:\\Users\\Petko Pedev\\source\\repos\\Programming-Fundamentals\\Programming-Fundamentals-Rework\\06.ArraysAndMethods-MoreExcercises\\P09-JumpAround\\P09-JumpAround.csproj",
       "projectName": "P09-JumpAround",
-      "projectPath": "C:\\Users\\Petko Pedev\\source\\repos\\06.ArraysAndMethods-MoreExcercises\\P09-JumpAround\\P09-JumpAround.csproj",
+      "projectPath": "C:\\Users\\Petko Pedev\\source\\repos\\Programming-Fundamentals\\Programming-Fundamentals-Rework\\06.ArraysAndMethods-MoreExcercises\\P09-JumpAround\\P09-JumpAround.csproj",
       "packagesPath": "C:\\Users\\Petko Pedev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Petko Pedev\\source\\repos\\06.ArraysAndMethods-MoreExcercises\\P09-JumpAround\\obj\\",
+      "outputPath": "C:\\Users\\Petko Pedev\\source\\repos\\Programming-Fundamentals\\Programming-Fundamentals-Rework\\06.ArraysAndMethods-MoreExcercises\\P09-JumpAround\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
