@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\P05-SortNumbers\bin\Debug\netcoreapp2.0\P05-SortNumbers.deps.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\P05-SortNumbers\bin\Debug\netcoreapp2.0\P05-SortNumbers.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\P05-SortNumbers\bin\Debug\netcoreapp2.0\P05-SortNumbers.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\P05-SortNumbers\bin\Debug\netcoreapp2.0\P05-SortNumbers.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\P05-SortNumbers\bin\Debug\netcoreapp2.0\P05-SortNumbers.pdb
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\P05-SortNumbers\obj\Debug\netcoreapp2.0\P05-SortNumbers.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\P05-SortNumbers\obj\Debug\netcoreapp2.0\P05-SortNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\P05-SortNumbers\obj\Debug\netcoreapp2.0\P05-SortNumbers.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\P05-SortNumbers\obj\Debug\netcoreapp2.0\P05-SortNumbers.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\P05-SortNumbers\obj\Debug\netcoreapp2.0\P05-SortNumbers.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\P05-SortNumbers\obj\Debug\netcoreapp2.0\P05-SortNumbers.pdb

@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\P01-RemoveNegativesAndReverse\bin\Debug\netcoreapp2.0\P01-RemoveNegativesAndReverse.deps.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\P01-RemoveNegativesAndReverse\bin\Debug\netcoreapp2.0\P01-RemoveNegativesAndReverse.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\P01-RemoveNegativesAndReverse\bin\Debug\netcoreapp2.0\P01-RemoveNegativesAndReverse.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\P01-RemoveNegativesAndReverse\bin\Debug\netcoreapp2.0\P01-RemoveNegativesAndReverse.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\P01-RemoveNegativesAndReverse\bin\Debug\netcoreapp2.0\P01-RemoveNegativesAndReverse.pdb
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\P01-RemoveNegativesAndReverse\obj\Debug\netcoreapp2.0\P01-RemoveNegativesAndReverse.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\P01-RemoveNegativesAndReverse\obj\Debug\netcoreapp2.0\P01-RemoveNegativesAndReverse.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\P01-RemoveNegativesAndReverse\obj\Debug\netcoreapp2.0\P01-RemoveNegativesAndReverse.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\P01-RemoveNegativesAndReverse\obj\Debug\netcoreapp2.0\P01-RemoveNegativesAndReverse.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\P01-RemoveNegativesAndReverse\obj\Debug\netcoreapp2.0\P01-RemoveNegativesAndReverse.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\P01-RemoveNegativesAndReverse\obj\Debug\netcoreapp2.0\P01-RemoveNegativesAndReverse.pdb

@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\P07-CountNumbers\bin\Debug\netcoreapp2.0\P07-CountNumbers.deps.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\P07-CountNumbers\bin\Debug\netcoreapp2.0\P07-CountNumbers.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\P07-CountNumbers\bin\Debug\netcoreapp2.0\P07-CountNumbers.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\P07-CountNumbers\bin\Debug\netcoreapp2.0\P07-CountNumbers.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\P07-CountNumbers\bin\Debug\netcoreapp2.0\P07-CountNumbers.pdb
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\P07-CountNumbers\obj\Debug\netcoreapp2.0\P07-CountNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\P07-CountNumbers\obj\Debug\netcoreapp2.0\P07-CountNumbers.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\P07-CountNumbers\obj\Debug\netcoreapp2.0\P07-CountNumbers.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\P07-CountNumbers\obj\Debug\netcoreapp2.0\P07-CountNumbers.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\P07-CountNumbers\obj\Debug\netcoreapp2.0\P07-CountNumbers.pdb

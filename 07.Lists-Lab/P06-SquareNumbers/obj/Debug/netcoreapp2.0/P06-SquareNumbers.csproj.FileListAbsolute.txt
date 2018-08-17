@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\P06-SquareNumbers\bin\Debug\netcoreapp2.0\P06-SquareNumbers.deps.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\P06-SquareNumbers\bin\Debug\netcoreapp2.0\P06-SquareNumbers.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\P06-SquareNumbers\bin\Debug\netcoreapp2.0\P06-SquareNumbers.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\P06-SquareNumbers\bin\Debug\netcoreapp2.0\P06-SquareNumbers.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\P06-SquareNumbers\bin\Debug\netcoreapp2.0\P06-SquareNumbers.pdb
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\P06-SquareNumbers\obj\Debug\netcoreapp2.0\P06-SquareNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\P06-SquareNumbers\obj\Debug\netcoreapp2.0\P06-SquareNumbers.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\P06-SquareNumbers\obj\Debug\netcoreapp2.0\P06-SquareNumbers.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\P06-SquareNumbers\obj\Debug\netcoreapp2.0\P06-SquareNumbers.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\P06-SquareNumbers\obj\Debug\netcoreapp2.0\P06-SquareNumbers.pdb

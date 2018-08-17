@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\P02-AppendLists\bin\Debug\netcoreapp2.0\P02-AppendLists.deps.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\P02-AppendLists\bin\Debug\netcoreapp2.0\P02-AppendLists.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\P02-AppendLists\bin\Debug\netcoreapp2.0\P02-AppendLists.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\P02-AppendLists\bin\Debug\netcoreapp2.0\P02-AppendLists.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\P02-AppendLists\bin\Debug\netcoreapp2.0\P02-AppendLists.pdb
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\P02-AppendLists\obj\Debug\netcoreapp2.0\P02-AppendLists.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\P02-AppendLists\obj\Debug\netcoreapp2.0\P02-AppendLists.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\P02-AppendLists\obj\Debug\netcoreapp2.0\P02-AppendLists.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\P02-AppendLists\obj\Debug\netcoreapp2.0\P02-AppendLists.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\P02-AppendLists\obj\Debug\netcoreapp2.0\P02-AppendLists.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\P02-AppendLists\obj\Debug\netcoreapp2.0\P02-AppendLists.pdb

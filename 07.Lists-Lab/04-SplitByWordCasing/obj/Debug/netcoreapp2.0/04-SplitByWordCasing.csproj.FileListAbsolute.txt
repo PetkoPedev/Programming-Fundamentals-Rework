@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\04-SplitByWordCasing\bin\Debug\netcoreapp2.0\04-SplitByWordCasing.deps.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\04-SplitByWordCasing\bin\Debug\netcoreapp2.0\04-SplitByWordCasing.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\04-SplitByWordCasing\bin\Debug\netcoreapp2.0\04-SplitByWordCasing.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\04-SplitByWordCasing\bin\Debug\netcoreapp2.0\04-SplitByWordCasing.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\04-SplitByWordCasing\bin\Debug\netcoreapp2.0\04-SplitByWordCasing.pdb
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\04-SplitByWordCasing\obj\Debug\netcoreapp2.0\04-SplitByWordCasing.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\04-SplitByWordCasing\obj\Debug\netcoreapp2.0\04-SplitByWordCasing.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\04-SplitByWordCasing\obj\Debug\netcoreapp2.0\04-SplitByWordCasing.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\04-SplitByWordCasing\obj\Debug\netcoreapp2.0\04-SplitByWordCasing.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\04-SplitByWordCasing\obj\Debug\netcoreapp2.0\04-SplitByWordCasing.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Lab\04-SplitByWordCasing\obj\Debug\netcoreapp2.0\04-SplitByWordCasing.pdb
