@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Exercises\P07-BombNumbers\bin\Debug\netcoreapp2.0\P07-BombNumbers.deps.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Exercises\P07-BombNumbers\bin\Debug\netcoreapp2.0\P07-BombNumbers.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Exercises\P07-BombNumbers\bin\Debug\netcoreapp2.0\P07-BombNumbers.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Exercises\P07-BombNumbers\bin\Debug\netcoreapp2.0\P07-BombNumbers.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Exercises\P07-BombNumbers\bin\Debug\netcoreapp2.0\P07-BombNumbers.pdb
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Exercises\P07-BombNumbers\obj\Debug\netcoreapp2.0\P07-BombNumbers.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Exercises\P07-BombNumbers\obj\Debug\netcoreapp2.0\P07-BombNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Exercises\P07-BombNumbers\obj\Debug\netcoreapp2.0\P07-BombNumbers.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Exercises\P07-BombNumbers\obj\Debug\netcoreapp2.0\P07-BombNumbers.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Exercises\P07-BombNumbers\obj\Debug\netcoreapp2.0\P07-BombNumbers.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Exercises\P07-BombNumbers\obj\Debug\netcoreapp2.0\P07-BombNumbers.pdb

@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Exercises\P01-MaxSequenceOfEqualElements\bin\Debug\netcoreapp2.0\P01-MaxSequenceOfEqualElements.deps.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Exercises\P01-MaxSequenceOfEqualElements\bin\Debug\netcoreapp2.0\P01-MaxSequenceOfEqualElements.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Exercises\P01-MaxSequenceOfEqualElements\bin\Debug\netcoreapp2.0\P01-MaxSequenceOfEqualElements.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Exercises\P01-MaxSequenceOfEqualElements\bin\Debug\netcoreapp2.0\P01-MaxSequenceOfEqualElements.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Exercises\P01-MaxSequenceOfEqualElements\bin\Debug\netcoreapp2.0\P01-MaxSequenceOfEqualElements.pdb
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Exercises\P01-MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.0\P01-MaxSequenceOfEqualElements.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Exercises\P01-MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.0\P01-MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Exercises\P01-MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.0\P01-MaxSequenceOfEqualElements.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Exercises\P01-MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.0\P01-MaxSequenceOfEqualElements.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Exercises\P01-MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.0\P01-MaxSequenceOfEqualElements.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Exercises\P01-MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.0\P01-MaxSequenceOfEqualElements.pdb

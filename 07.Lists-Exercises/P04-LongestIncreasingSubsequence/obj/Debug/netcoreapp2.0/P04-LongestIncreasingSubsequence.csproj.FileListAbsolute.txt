@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Exercises\P04-LongestIncreasingSubsequence\bin\Debug\netcoreapp2.0\P04-LongestIncreasingSubsequence.deps.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Exercises\P04-LongestIncreasingSubsequence\bin\Debug\netcoreapp2.0\P04-LongestIncreasingSubsequence.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Exercises\P04-LongestIncreasingSubsequence\bin\Debug\netcoreapp2.0\P04-LongestIncreasingSubsequence.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Exercises\P04-LongestIncreasingSubsequence\bin\Debug\netcoreapp2.0\P04-LongestIncreasingSubsequence.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Exercises\P04-LongestIncreasingSubsequence\bin\Debug\netcoreapp2.0\P04-LongestIncreasingSubsequence.pdb
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Exercises\P04-LongestIncreasingSubsequence\obj\Debug\netcoreapp2.0\P04-LongestIncreasingSubsequence.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Exercises\P04-LongestIncreasingSubsequence\obj\Debug\netcoreapp2.0\P04-LongestIncreasingSubsequence.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Exercises\P04-LongestIncreasingSubsequence\obj\Debug\netcoreapp2.0\P04-LongestIncreasingSubsequence.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Exercises\P04-LongestIncreasingSubsequence\obj\Debug\netcoreapp2.0\P04-LongestIncreasingSubsequence.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Exercises\P04-LongestIncreasingSubsequence\obj\Debug\netcoreapp2.0\P04-LongestIncreasingSubsequence.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Exercises\P04-LongestIncreasingSubsequence\obj\Debug\netcoreapp2.0\P04-LongestIncreasingSubsequence.pdb

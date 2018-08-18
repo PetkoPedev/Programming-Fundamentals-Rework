@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Exercises\P06-SumReversedNumbers\bin\Debug\netcoreapp2.0\P06-SumReversedNumbers.deps.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Exercises\P06-SumReversedNumbers\bin\Debug\netcoreapp2.0\P06-SumReversedNumbers.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Exercises\P06-SumReversedNumbers\bin\Debug\netcoreapp2.0\P06-SumReversedNumbers.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Exercises\P06-SumReversedNumbers\bin\Debug\netcoreapp2.0\P06-SumReversedNumbers.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Exercises\P06-SumReversedNumbers\bin\Debug\netcoreapp2.0\P06-SumReversedNumbers.pdb
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Exercises\P06-SumReversedNumbers\obj\Debug\netcoreapp2.0\P06-SumReversedNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Exercises\P06-SumReversedNumbers\obj\Debug\netcoreapp2.0\P06-SumReversedNumbers.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Exercises\P06-SumReversedNumbers\obj\Debug\netcoreapp2.0\P06-SumReversedNumbers.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Exercises\P06-SumReversedNumbers\obj\Debug\netcoreapp2.0\P06-SumReversedNumbers.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Exercises\P06-SumReversedNumbers\obj\Debug\netcoreapp2.0\P06-SumReversedNumbers.pdb

@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Exercises\P05-ArrayManipulator\bin\Debug\netcoreapp2.0\P05-ArrayManipulator.deps.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Exercises\P05-ArrayManipulator\bin\Debug\netcoreapp2.0\P05-ArrayManipulator.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Exercises\P05-ArrayManipulator\bin\Debug\netcoreapp2.0\P05-ArrayManipulator.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Exercises\P05-ArrayManipulator\bin\Debug\netcoreapp2.0\P05-ArrayManipulator.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Exercises\P05-ArrayManipulator\bin\Debug\netcoreapp2.0\P05-ArrayManipulator.pdb
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Exercises\P05-ArrayManipulator\obj\Debug\netcoreapp2.0\P05-ArrayManipulator.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Exercises\P05-ArrayManipulator\obj\Debug\netcoreapp2.0\P05-ArrayManipulator.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Exercises\P05-ArrayManipulator\obj\Debug\netcoreapp2.0\P05-ArrayManipulator.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Exercises\P05-ArrayManipulator\obj\Debug\netcoreapp2.0\P05-ArrayManipulator.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Exercises\P05-ArrayManipulator\obj\Debug\netcoreapp2.0\P05-ArrayManipulator.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\07.Lists-Exercises\P05-ArrayManipulator\obj\Debug\netcoreapp2.0\P05-ArrayManipulator.pdb
