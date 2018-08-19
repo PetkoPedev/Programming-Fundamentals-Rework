@@ -1,0 +1,11 @@
+c:\users\petko pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\08.Dictionaries-Exercises\P03-AMinerTask\bin\Debug\netcoreapp2.0\P03-AMinerTask.deps.json
+c:\users\petko pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\08.Dictionaries-Exercises\P03-AMinerTask\bin\Debug\netcoreapp2.0\P03-AMinerTask.runtimeconfig.json
+c:\users\petko pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\08.Dictionaries-Exercises\P03-AMinerTask\bin\Debug\netcoreapp2.0\P03-AMinerTask.runtimeconfig.dev.json
+c:\users\petko pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\08.Dictionaries-Exercises\P03-AMinerTask\bin\Debug\netcoreapp2.0\P03-AMinerTask.dll
+c:\users\petko pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\08.Dictionaries-Exercises\P03-AMinerTask\bin\Debug\netcoreapp2.0\P03-AMinerTask.pdb
+c:\users\petko pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\08.Dictionaries-Exercises\P03-AMinerTask\obj\Debug\netcoreapp2.0\P03-AMinerTask.csprojAssemblyReference.cache
+c:\users\petko pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\08.Dictionaries-Exercises\P03-AMinerTask\obj\Debug\netcoreapp2.0\P03-AMinerTask.csproj.CoreCompileInputs.cache
+c:\users\petko pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\08.Dictionaries-Exercises\P03-AMinerTask\obj\Debug\netcoreapp2.0\P03-AMinerTask.AssemblyInfoInputs.cache
+c:\users\petko pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\08.Dictionaries-Exercises\P03-AMinerTask\obj\Debug\netcoreapp2.0\P03-AMinerTask.AssemblyInfo.cs
+c:\users\petko pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\08.Dictionaries-Exercises\P03-AMinerTask\obj\Debug\netcoreapp2.0\P03-AMinerTask.dll
+c:\users\petko pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\08.Dictionaries-Exercises\P03-AMinerTask\obj\Debug\netcoreapp2.0\P03-AMinerTask.pdb
