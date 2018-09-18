@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep3\P01-PadawanEquipment\bin\Debug\netcoreapp2.1\P01-PadawanEquipment.deps.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep3\P01-PadawanEquipment\bin\Debug\netcoreapp2.1\P01-PadawanEquipment.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep3\P01-PadawanEquipment\bin\Debug\netcoreapp2.1\P01-PadawanEquipment.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep3\P01-PadawanEquipment\bin\Debug\netcoreapp2.1\P01-PadawanEquipment.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep3\P01-PadawanEquipment\bin\Debug\netcoreapp2.1\P01-PadawanEquipment.pdb
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep3\P01-PadawanEquipment\obj\Debug\netcoreapp2.1\P01-PadawanEquipment.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep3\P01-PadawanEquipment\obj\Debug\netcoreapp2.1\P01-PadawanEquipment.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep3\P01-PadawanEquipment\obj\Debug\netcoreapp2.1\P01-PadawanEquipment.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep3\P01-PadawanEquipment\obj\Debug\netcoreapp2.1\P01-PadawanEquipment.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep3\P01-PadawanEquipment\obj\Debug\netcoreapp2.1\P01-PadawanEquipment.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep3\P01-PadawanEquipment\obj\Debug\netcoreapp2.1\P01-PadawanEquipment.pdb

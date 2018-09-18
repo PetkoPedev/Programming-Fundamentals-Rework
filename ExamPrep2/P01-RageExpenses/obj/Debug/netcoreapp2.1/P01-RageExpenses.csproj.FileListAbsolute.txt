@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep2\P01-RageExpenses\bin\Debug\netcoreapp2.1\P01-RageExpenses.deps.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep2\P01-RageExpenses\bin\Debug\netcoreapp2.1\P01-RageExpenses.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep2\P01-RageExpenses\bin\Debug\netcoreapp2.1\P01-RageExpenses.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep2\P01-RageExpenses\bin\Debug\netcoreapp2.1\P01-RageExpenses.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep2\P01-RageExpenses\bin\Debug\netcoreapp2.1\P01-RageExpenses.pdb
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep2\P01-RageExpenses\obj\Debug\netcoreapp2.1\P01-RageExpenses.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep2\P01-RageExpenses\obj\Debug\netcoreapp2.1\P01-RageExpenses.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep2\P01-RageExpenses\obj\Debug\netcoreapp2.1\P01-RageExpenses.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep2\P01-RageExpenses\obj\Debug\netcoreapp2.1\P01-RageExpenses.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep2\P01-RageExpenses\obj\Debug\netcoreapp2.1\P01-RageExpenses.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep2\P01-RageExpenses\obj\Debug\netcoreapp2.1\P01-RageExpenses.pdb

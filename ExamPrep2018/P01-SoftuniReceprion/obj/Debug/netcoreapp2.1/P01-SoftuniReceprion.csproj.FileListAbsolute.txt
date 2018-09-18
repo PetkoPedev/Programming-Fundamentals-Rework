@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep2018\P01-SoftuniReceprion\bin\Debug\netcoreapp2.1\P01-SoftuniReceprion.deps.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep2018\P01-SoftuniReceprion\bin\Debug\netcoreapp2.1\P01-SoftuniReceprion.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep2018\P01-SoftuniReceprion\bin\Debug\netcoreapp2.1\P01-SoftuniReceprion.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep2018\P01-SoftuniReceprion\bin\Debug\netcoreapp2.1\P01-SoftuniReceprion.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep2018\P01-SoftuniReceprion\bin\Debug\netcoreapp2.1\P01-SoftuniReceprion.pdb
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep2018\P01-SoftuniReceprion\obj\Debug\netcoreapp2.1\P01-SoftuniReceprion.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep2018\P01-SoftuniReceprion\obj\Debug\netcoreapp2.1\P01-SoftuniReceprion.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep2018\P01-SoftuniReceprion\obj\Debug\netcoreapp2.1\P01-SoftuniReceprion.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep2018\P01-SoftuniReceprion\obj\Debug\netcoreapp2.1\P01-SoftuniReceprion.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep2018\P01-SoftuniReceprion\obj\Debug\netcoreapp2.1\P01-SoftuniReceprion.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep2018\P01-SoftuniReceprion\obj\Debug\netcoreapp2.1\P01-SoftuniReceprion.pdb

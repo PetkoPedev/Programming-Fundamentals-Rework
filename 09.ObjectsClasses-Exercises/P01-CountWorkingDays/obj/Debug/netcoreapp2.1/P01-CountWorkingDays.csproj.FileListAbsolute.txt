@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P01-CountWorkingDays\bin\Debug\netcoreapp2.1\P01-CountWorkingDays.deps.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P01-CountWorkingDays\bin\Debug\netcoreapp2.1\P01-CountWorkingDays.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P01-CountWorkingDays\bin\Debug\netcoreapp2.1\P01-CountWorkingDays.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P01-CountWorkingDays\bin\Debug\netcoreapp2.1\P01-CountWorkingDays.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P01-CountWorkingDays\bin\Debug\netcoreapp2.1\P01-CountWorkingDays.pdb
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P01-CountWorkingDays\obj\Debug\netcoreapp2.1\P01-CountWorkingDays.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P01-CountWorkingDays\obj\Debug\netcoreapp2.1\P01-CountWorkingDays.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P01-CountWorkingDays\obj\Debug\netcoreapp2.1\P01-CountWorkingDays.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P01-CountWorkingDays\obj\Debug\netcoreapp2.1\P01-CountWorkingDays.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P01-CountWorkingDays\obj\Debug\netcoreapp2.1\P01-CountWorkingDays.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P01-CountWorkingDays\obj\Debug\netcoreapp2.1\P01-CountWorkingDays.pdb

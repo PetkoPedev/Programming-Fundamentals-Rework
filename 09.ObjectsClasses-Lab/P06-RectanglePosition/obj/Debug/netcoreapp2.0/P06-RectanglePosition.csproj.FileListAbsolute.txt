@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P06-RectanglePosition\bin\Debug\netcoreapp2.0\P06-RectanglePosition.deps.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P06-RectanglePosition\bin\Debug\netcoreapp2.0\P06-RectanglePosition.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P06-RectanglePosition\bin\Debug\netcoreapp2.0\P06-RectanglePosition.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P06-RectanglePosition\bin\Debug\netcoreapp2.0\P06-RectanglePosition.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P06-RectanglePosition\bin\Debug\netcoreapp2.0\P06-RectanglePosition.pdb
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P06-RectanglePosition\obj\Debug\netcoreapp2.0\P06-RectanglePosition.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P06-RectanglePosition\obj\Debug\netcoreapp2.0\P06-RectanglePosition.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P06-RectanglePosition\obj\Debug\netcoreapp2.0\P06-RectanglePosition.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P06-RectanglePosition\obj\Debug\netcoreapp2.0\P06-RectanglePosition.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P06-RectanglePosition\obj\Debug\netcoreapp2.0\P06-RectanglePosition.pdb

@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P05-ClosestTwoPoints\bin\Debug\netcoreapp2.0\P05-ClosestTwoPoints.deps.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P05-ClosestTwoPoints\bin\Debug\netcoreapp2.0\P05-ClosestTwoPoints.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P05-ClosestTwoPoints\bin\Debug\netcoreapp2.0\P05-ClosestTwoPoints.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P05-ClosestTwoPoints\bin\Debug\netcoreapp2.0\P05-ClosestTwoPoints.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P05-ClosestTwoPoints\bin\Debug\netcoreapp2.0\P05-ClosestTwoPoints.pdb
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P05-ClosestTwoPoints\obj\Debug\netcoreapp2.0\P05-ClosestTwoPoints.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P05-ClosestTwoPoints\obj\Debug\netcoreapp2.0\P05-ClosestTwoPoints.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P05-ClosestTwoPoints\obj\Debug\netcoreapp2.0\P05-ClosestTwoPoints.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P05-ClosestTwoPoints\obj\Debug\netcoreapp2.0\P05-ClosestTwoPoints.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P05-ClosestTwoPoints\obj\Debug\netcoreapp2.0\P05-ClosestTwoPoints.pdb

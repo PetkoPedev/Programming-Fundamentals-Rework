@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P04-DistanceBetweenPoints\bin\Debug\netcoreapp2.0\P04-DistanceBetweenPoints.deps.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P04-DistanceBetweenPoints\bin\Debug\netcoreapp2.0\P04-DistanceBetweenPoints.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P04-DistanceBetweenPoints\bin\Debug\netcoreapp2.0\P04-DistanceBetweenPoints.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P04-DistanceBetweenPoints\bin\Debug\netcoreapp2.0\P04-DistanceBetweenPoints.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P04-DistanceBetweenPoints\bin\Debug\netcoreapp2.0\P04-DistanceBetweenPoints.pdb
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P04-DistanceBetweenPoints\obj\Debug\netcoreapp2.0\P04-DistanceBetweenPoints.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P04-DistanceBetweenPoints\obj\Debug\netcoreapp2.0\P04-DistanceBetweenPoints.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P04-DistanceBetweenPoints\obj\Debug\netcoreapp2.0\P04-DistanceBetweenPoints.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P04-DistanceBetweenPoints\obj\Debug\netcoreapp2.0\P04-DistanceBetweenPoints.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P04-DistanceBetweenPoints\obj\Debug\netcoreapp2.0\P04-DistanceBetweenPoints.pdb

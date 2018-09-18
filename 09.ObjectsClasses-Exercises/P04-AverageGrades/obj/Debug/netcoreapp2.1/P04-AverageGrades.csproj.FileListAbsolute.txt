@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P04-AverageGrades\bin\Debug\netcoreapp2.1\P04-AverageGrades.deps.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P04-AverageGrades\bin\Debug\netcoreapp2.1\P04-AverageGrades.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P04-AverageGrades\bin\Debug\netcoreapp2.1\P04-AverageGrades.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P04-AverageGrades\bin\Debug\netcoreapp2.1\P04-AverageGrades.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P04-AverageGrades\bin\Debug\netcoreapp2.1\P04-AverageGrades.pdb
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P04-AverageGrades\obj\Debug\netcoreapp2.1\P04-AverageGrades.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P04-AverageGrades\obj\Debug\netcoreapp2.1\P04-AverageGrades.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P04-AverageGrades\obj\Debug\netcoreapp2.1\P04-AverageGrades.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P04-AverageGrades\obj\Debug\netcoreapp2.1\P04-AverageGrades.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P04-AverageGrades\obj\Debug\netcoreapp2.1\P04-AverageGrades.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P04-AverageGrades\obj\Debug\netcoreapp2.1\P04-AverageGrades.pdb

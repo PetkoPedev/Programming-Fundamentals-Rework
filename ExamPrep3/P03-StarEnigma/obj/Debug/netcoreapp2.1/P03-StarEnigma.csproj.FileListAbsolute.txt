@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep3\P03-StarEnigma\bin\Debug\netcoreapp2.1\P03-StarEnigma.deps.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep3\P03-StarEnigma\bin\Debug\netcoreapp2.1\P03-StarEnigma.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep3\P03-StarEnigma\bin\Debug\netcoreapp2.1\P03-StarEnigma.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep3\P03-StarEnigma\bin\Debug\netcoreapp2.1\P03-StarEnigma.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep3\P03-StarEnigma\bin\Debug\netcoreapp2.1\P03-StarEnigma.pdb
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep3\P03-StarEnigma\obj\Debug\netcoreapp2.1\P03-StarEnigma.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep3\P03-StarEnigma\obj\Debug\netcoreapp2.1\P03-StarEnigma.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep3\P03-StarEnigma\obj\Debug\netcoreapp2.1\P03-StarEnigma.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep3\P03-StarEnigma\obj\Debug\netcoreapp2.1\P03-StarEnigma.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep3\P03-StarEnigma\obj\Debug\netcoreapp2.1\P03-StarEnigma.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep3\P03-StarEnigma\obj\Debug\netcoreapp2.1\P03-StarEnigma.pdb

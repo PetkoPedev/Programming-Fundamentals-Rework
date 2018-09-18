@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P03-CirclesIntersection\bin\Debug\netcoreapp2.1\P03-CirclesIntersection.deps.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P03-CirclesIntersection\bin\Debug\netcoreapp2.1\P03-CirclesIntersection.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P03-CirclesIntersection\bin\Debug\netcoreapp2.1\P03-CirclesIntersection.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P03-CirclesIntersection\bin\Debug\netcoreapp2.1\P03-CirclesIntersection.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P03-CirclesIntersection\bin\Debug\netcoreapp2.1\P03-CirclesIntersection.pdb
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P03-CirclesIntersection\obj\Debug\netcoreapp2.1\P03-CirclesIntersection.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P03-CirclesIntersection\obj\Debug\netcoreapp2.1\P03-CirclesIntersection.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P03-CirclesIntersection\obj\Debug\netcoreapp2.1\P03-CirclesIntersection.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P03-CirclesIntersection\obj\Debug\netcoreapp2.1\P03-CirclesIntersection.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P03-CirclesIntersection\obj\Debug\netcoreapp2.1\P03-CirclesIntersection.pdb

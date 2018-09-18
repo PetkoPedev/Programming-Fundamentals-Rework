@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep3\P02-KaminoFactory\bin\Debug\netcoreapp2.1\P02-KaminoFactory.deps.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep3\P02-KaminoFactory\bin\Debug\netcoreapp2.1\P02-KaminoFactory.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep3\P02-KaminoFactory\bin\Debug\netcoreapp2.1\P02-KaminoFactory.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep3\P02-KaminoFactory\bin\Debug\netcoreapp2.1\P02-KaminoFactory.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep3\P02-KaminoFactory\bin\Debug\netcoreapp2.1\P02-KaminoFactory.pdb
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep3\P02-KaminoFactory\obj\Debug\netcoreapp2.1\P02-KaminoFactory.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep3\P02-KaminoFactory\obj\Debug\netcoreapp2.1\P02-KaminoFactory.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep3\P02-KaminoFactory\obj\Debug\netcoreapp2.1\P02-KaminoFactory.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep3\P02-KaminoFactory\obj\Debug\netcoreapp2.1\P02-KaminoFactory.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep3\P02-KaminoFactory\obj\Debug\netcoreapp2.1\P02-KaminoFactory.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep3\P02-KaminoFactory\obj\Debug\netcoreapp2.1\P02-KaminoFactory.pdb

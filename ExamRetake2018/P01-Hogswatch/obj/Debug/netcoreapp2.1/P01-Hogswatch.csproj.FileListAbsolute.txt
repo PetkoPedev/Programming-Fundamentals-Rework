@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamRetake2018\P01-Hogswatch\bin\Debug\netcoreapp2.1\P01-Hogswatch.deps.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamRetake2018\P01-Hogswatch\bin\Debug\netcoreapp2.1\P01-Hogswatch.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamRetake2018\P01-Hogswatch\bin\Debug\netcoreapp2.1\P01-Hogswatch.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamRetake2018\P01-Hogswatch\bin\Debug\netcoreapp2.1\P01-Hogswatch.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamRetake2018\P01-Hogswatch\bin\Debug\netcoreapp2.1\P01-Hogswatch.pdb
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamRetake2018\P01-Hogswatch\obj\Debug\netcoreapp2.1\P01-Hogswatch.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamRetake2018\P01-Hogswatch\obj\Debug\netcoreapp2.1\P01-Hogswatch.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamRetake2018\P01-Hogswatch\obj\Debug\netcoreapp2.1\P01-Hogswatch.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamRetake2018\P01-Hogswatch\obj\Debug\netcoreapp2.1\P01-Hogswatch.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamRetake2018\P01-Hogswatch\obj\Debug\netcoreapp2.1\P01-Hogswatch.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamRetake2018\P01-Hogswatch\obj\Debug\netcoreapp2.1\P01-Hogswatch.pdb

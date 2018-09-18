@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P02-RandomizeWords\bin\Debug\netcoreapp2.0\P02-RandomizeWords.deps.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P02-RandomizeWords\bin\Debug\netcoreapp2.0\P02-RandomizeWords.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P02-RandomizeWords\bin\Debug\netcoreapp2.0\P02-RandomizeWords.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P02-RandomizeWords\bin\Debug\netcoreapp2.0\P02-RandomizeWords.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P02-RandomizeWords\bin\Debug\netcoreapp2.0\P02-RandomizeWords.pdb
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P02-RandomizeWords\obj\Debug\netcoreapp2.0\P02-RandomizeWords.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P02-RandomizeWords\obj\Debug\netcoreapp2.0\P02-RandomizeWords.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P02-RandomizeWords\obj\Debug\netcoreapp2.0\P02-RandomizeWords.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P02-RandomizeWords\obj\Debug\netcoreapp2.0\P02-RandomizeWords.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P02-RandomizeWords\obj\Debug\netcoreapp2.0\P02-RandomizeWords.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P02-RandomizeWords\obj\Debug\netcoreapp2.0\P02-RandomizeWords.pdb

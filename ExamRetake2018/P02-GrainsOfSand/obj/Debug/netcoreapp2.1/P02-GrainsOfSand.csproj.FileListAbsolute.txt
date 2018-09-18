@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamRetake2018\P02-GrainsOfSand\bin\Debug\netcoreapp2.1\P02-GrainsOfSand.deps.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamRetake2018\P02-GrainsOfSand\bin\Debug\netcoreapp2.1\P02-GrainsOfSand.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamRetake2018\P02-GrainsOfSand\bin\Debug\netcoreapp2.1\P02-GrainsOfSand.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamRetake2018\P02-GrainsOfSand\bin\Debug\netcoreapp2.1\P02-GrainsOfSand.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamRetake2018\P02-GrainsOfSand\bin\Debug\netcoreapp2.1\P02-GrainsOfSand.pdb
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamRetake2018\P02-GrainsOfSand\obj\Debug\netcoreapp2.1\P02-GrainsOfSand.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamRetake2018\P02-GrainsOfSand\obj\Debug\netcoreapp2.1\P02-GrainsOfSand.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamRetake2018\P02-GrainsOfSand\obj\Debug\netcoreapp2.1\P02-GrainsOfSand.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamRetake2018\P02-GrainsOfSand\obj\Debug\netcoreapp2.1\P02-GrainsOfSand.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamRetake2018\P02-GrainsOfSand\obj\Debug\netcoreapp2.1\P02-GrainsOfSand.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamRetake2018\P02-GrainsOfSand\obj\Debug\netcoreapp2.1\P02-GrainsOfSand.pdb

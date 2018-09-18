@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep2\P03-TseamAccount\bin\Debug\netcoreapp2.1\P03-TseamAccount.deps.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep2\P03-TseamAccount\bin\Debug\netcoreapp2.1\P03-TseamAccount.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep2\P03-TseamAccount\bin\Debug\netcoreapp2.1\P03-TseamAccount.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep2\P03-TseamAccount\bin\Debug\netcoreapp2.1\P03-TseamAccount.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep2\P03-TseamAccount\bin\Debug\netcoreapp2.1\P03-TseamAccount.pdb
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep2\P03-TseamAccount\obj\Debug\netcoreapp2.1\P03-TseamAccount.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep2\P03-TseamAccount\obj\Debug\netcoreapp2.1\P03-TseamAccount.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep2\P03-TseamAccount\obj\Debug\netcoreapp2.1\P03-TseamAccount.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep2\P03-TseamAccount\obj\Debug\netcoreapp2.1\P03-TseamAccount.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep2\P03-TseamAccount\obj\Debug\netcoreapp2.1\P03-TseamAccount.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep2\P03-TseamAccount\obj\Debug\netcoreapp2.1\P03-TseamAccount.pdb

@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P07-SalesReport\bin\Debug\netcoreapp2.0\P07-SalesReport.deps.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P07-SalesReport\bin\Debug\netcoreapp2.0\P07-SalesReport.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P07-SalesReport\bin\Debug\netcoreapp2.0\P07-SalesReport.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P07-SalesReport\bin\Debug\netcoreapp2.0\P07-SalesReport.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P07-SalesReport\bin\Debug\netcoreapp2.0\P07-SalesReport.pdb
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P07-SalesReport\obj\Debug\netcoreapp2.0\P07-SalesReport.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P07-SalesReport\obj\Debug\netcoreapp2.0\P07-SalesReport.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P07-SalesReport\obj\Debug\netcoreapp2.0\P07-SalesReport.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P07-SalesReport\obj\Debug\netcoreapp2.0\P07-SalesReport.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P07-SalesReport\obj\Debug\netcoreapp2.0\P07-SalesReport.pdb

@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P02-AdvertisementMessage\bin\Debug\netcoreapp2.1\P02-AdvertisementMessage.deps.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P02-AdvertisementMessage\bin\Debug\netcoreapp2.1\P02-AdvertisementMessage.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P02-AdvertisementMessage\bin\Debug\netcoreapp2.1\P02-AdvertisementMessage.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P02-AdvertisementMessage\bin\Debug\netcoreapp2.1\P02-AdvertisementMessage.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P02-AdvertisementMessage\bin\Debug\netcoreapp2.1\P02-AdvertisementMessage.pdb
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P02-AdvertisementMessage\obj\Debug\netcoreapp2.1\P02-AdvertisementMessage.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P02-AdvertisementMessage\obj\Debug\netcoreapp2.1\P02-AdvertisementMessage.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P02-AdvertisementMessage\obj\Debug\netcoreapp2.1\P02-AdvertisementMessage.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P02-AdvertisementMessage\obj\Debug\netcoreapp2.1\P02-AdvertisementMessage.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P02-AdvertisementMessage\obj\Debug\netcoreapp2.1\P02-AdvertisementMessage.pdb

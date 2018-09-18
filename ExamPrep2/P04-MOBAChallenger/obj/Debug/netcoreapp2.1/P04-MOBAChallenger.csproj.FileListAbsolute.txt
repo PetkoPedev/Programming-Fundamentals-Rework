@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep2\P04-MOBAChallenger\bin\Debug\netcoreapp2.1\P04-MOBAChallenger.deps.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep2\P04-MOBAChallenger\bin\Debug\netcoreapp2.1\P04-MOBAChallenger.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep2\P04-MOBAChallenger\bin\Debug\netcoreapp2.1\P04-MOBAChallenger.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep2\P04-MOBAChallenger\bin\Debug\netcoreapp2.1\P04-MOBAChallenger.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep2\P04-MOBAChallenger\bin\Debug\netcoreapp2.1\P04-MOBAChallenger.pdb
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep2\P04-MOBAChallenger\obj\Debug\netcoreapp2.1\P04-MOBAChallenger.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep2\P04-MOBAChallenger\obj\Debug\netcoreapp2.1\P04-MOBAChallenger.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep2\P04-MOBAChallenger\obj\Debug\netcoreapp2.1\P04-MOBAChallenger.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep2\P04-MOBAChallenger\obj\Debug\netcoreapp2.1\P04-MOBAChallenger.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep2\P04-MOBAChallenger\obj\Debug\netcoreapp2.1\P04-MOBAChallenger.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\ExamPrep2\P04-MOBAChallenger\obj\Debug\netcoreapp2.1\P04-MOBAChallenger.pdb

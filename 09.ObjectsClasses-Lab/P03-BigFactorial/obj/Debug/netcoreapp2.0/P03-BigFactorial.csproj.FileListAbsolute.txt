@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P03-BigFactorial\bin\Debug\netcoreapp2.0\P03-BigFactorial.deps.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P03-BigFactorial\bin\Debug\netcoreapp2.0\P03-BigFactorial.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P03-BigFactorial\bin\Debug\netcoreapp2.0\P03-BigFactorial.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P03-BigFactorial\bin\Debug\netcoreapp2.0\P03-BigFactorial.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P03-BigFactorial\bin\Debug\netcoreapp2.0\P03-BigFactorial.pdb
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P03-BigFactorial\obj\Debug\netcoreapp2.0\P03-BigFactorial.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P03-BigFactorial\obj\Debug\netcoreapp2.0\P03-BigFactorial.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P03-BigFactorial\obj\Debug\netcoreapp2.0\P03-BigFactorial.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P03-BigFactorial\obj\Debug\netcoreapp2.0\P03-BigFactorial.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P03-BigFactorial\obj\Debug\netcoreapp2.0\P03-BigFactorial.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Lab\P03-BigFactorial\obj\Debug\netcoreapp2.0\P03-BigFactorial.pdb

@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\08.DictionariesLists-More\P04-SupermarketDatabase\bin\Debug\netcoreapp2.0\P04-SupermarketDatabase.deps.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\08.DictionariesLists-More\P04-SupermarketDatabase\bin\Debug\netcoreapp2.0\P04-SupermarketDatabase.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\08.DictionariesLists-More\P04-SupermarketDatabase\bin\Debug\netcoreapp2.0\P04-SupermarketDatabase.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\08.DictionariesLists-More\P04-SupermarketDatabase\bin\Debug\netcoreapp2.0\P04-SupermarketDatabase.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\08.DictionariesLists-More\P04-SupermarketDatabase\bin\Debug\netcoreapp2.0\P04-SupermarketDatabase.pdb
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\08.DictionariesLists-More\P04-SupermarketDatabase\obj\Debug\netcoreapp2.0\P04-SupermarketDatabase.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\08.DictionariesLists-More\P04-SupermarketDatabase\obj\Debug\netcoreapp2.0\P04-SupermarketDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\08.DictionariesLists-More\P04-SupermarketDatabase\obj\Debug\netcoreapp2.0\P04-SupermarketDatabase.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\08.DictionariesLists-More\P04-SupermarketDatabase\obj\Debug\netcoreapp2.0\P04-SupermarketDatabase.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\08.DictionariesLists-More\P04-SupermarketDatabase\obj\Debug\netcoreapp2.0\P04-SupermarketDatabase.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\08.DictionariesLists-More\P04-SupermarketDatabase\obj\Debug\netcoreapp2.0\P04-SupermarketDatabase.pdb

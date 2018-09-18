@@ -3,19 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01-Phonebook", "P01-Phonebook\P01-Phonebook.csproj", "{5B1CDBF8-A9B2-4209-B123-1EC813321480}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01-Phonebook", "P01-Phonebook\P01-Phonebook.csproj", "{5B1CDBF8-A9B2-4209-B123-1EC813321480}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03-AMinerTask", "P03-AMinerTask\P03-AMinerTask.csproj", "{E6D50F6E-A0DF-4FC4-98E6-2970B187EB87}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P03-AMinerTask", "P03-AMinerTask\P03-AMinerTask.csproj", "{E6D50F6E-A0DF-4FC4-98E6-2970B187EB87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04-FixEmails", "P04-FixEmails\P04-FixEmails.csproj", "{AC21C34C-110F-43AD-BEB2-8660898A7AB8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P04-FixEmails", "P04-FixEmails\P04-FixEmails.csproj", "{AC21C34C-110F-43AD-BEB2-8660898A7AB8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P05-HandsOfCards", "P05-HandsOfCards\P05-HandsOfCards.csproj", "{659B5813-3364-4AF7-AA5E-78AA7F3777A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P05-HandsOfCards", "P05-HandsOfCards\P05-HandsOfCards.csproj", "{659B5813-3364-4AF7-AA5E-78AA7F3777A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P08-LogsAggregator", "P08-LogsAggregator\P08-LogsAggregator.csproj", "{48BAEE34-283A-4702-BC06-822432BD6AE8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P08-LogsAggregator", "P08-LogsAggregator\P08-LogsAggregator.csproj", "{48BAEE34-283A-4702-BC06-822432BD6AE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02-PhonebookUpgrade", "P02-PhonebookUpgrade\P02-PhonebookUpgrade.csproj", "{7D182F46-7392-4DAB-A164-AC74E84F1A19}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P02-PhonebookUpgrade", "P02-PhonebookUpgrade\P02-PhonebookUpgrade.csproj", "{7D182F46-7392-4DAB-A164-AC74E84F1A19}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P07-PopulationCenter", "P07-PopulationCenter`\P07-PopulationCenter.csproj", "{0F360D76-C4B6-46C0-94B7-D110EDDEAF9D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P07-PopulationCounter", "P07-PopulationCenter`\P07-PopulationCounter.csproj", "{0F360D76-C4B6-46C0-94B7-D110EDDEAF9D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P06-UserLogs", "P06-UserLogs\P06-UserLogs.csproj", "{15D45FB9-CA4B-4D76-ADA3-689FA1244FFB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P09-LegendaryFarming", "P09-LegendaryFarming\P09-LegendaryFarming.csproj", "{F95816E3-530B-47B9-A645-3C27CDC9B6EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P10-SerbianUnleashed", "P10-SerbianUnleashed\P10-SerbianUnleashed.csproj", "{1F88D76E-7A22-481B-A055-BFB128E42D56}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +57,18 @@ Global
 		{0F360D76-C4B6-46C0-94B7-D110EDDEAF9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F360D76-C4B6-46C0-94B7-D110EDDEAF9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F360D76-C4B6-46C0-94B7-D110EDDEAF9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15D45FB9-CA4B-4D76-ADA3-689FA1244FFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15D45FB9-CA4B-4D76-ADA3-689FA1244FFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15D45FB9-CA4B-4D76-ADA3-689FA1244FFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15D45FB9-CA4B-4D76-ADA3-689FA1244FFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F95816E3-530B-47B9-A645-3C27CDC9B6EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F95816E3-530B-47B9-A645-3C27CDC9B6EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F95816E3-530B-47B9-A645-3C27CDC9B6EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F95816E3-530B-47B9-A645-3C27CDC9B6EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F88D76E-7A22-481B-A055-BFB128E42D56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F88D76E-7A22-481B-A055-BFB128E42D56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F88D76E-7A22-481B-A055-BFB128E42D56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F88D76E-7A22-481B-A055-BFB128E42D56}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
