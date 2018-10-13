@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P08-MentorGroup\bin\Debug\netcoreapp2.1\P08-MentorGroup.deps.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P08-MentorGroup\bin\Debug\netcoreapp2.1\P08-MentorGroup.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P08-MentorGroup\bin\Debug\netcoreapp2.1\P08-MentorGroup.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P08-MentorGroup\bin\Debug\netcoreapp2.1\P08-MentorGroup.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P08-MentorGroup\bin\Debug\netcoreapp2.1\P08-MentorGroup.pdb
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P08-MentorGroup\obj\Debug\netcoreapp2.1\P08-MentorGroup.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P08-MentorGroup\obj\Debug\netcoreapp2.1\P08-MentorGroup.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P08-MentorGroup\obj\Debug\netcoreapp2.1\P08-MentorGroup.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P08-MentorGroup\obj\Debug\netcoreapp2.1\P08-MentorGroup.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P08-MentorGroup\obj\Debug\netcoreapp2.1\P08-MentorGroup.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P08-MentorGroup\obj\Debug\netcoreapp2.1\P08-MentorGroup.pdb

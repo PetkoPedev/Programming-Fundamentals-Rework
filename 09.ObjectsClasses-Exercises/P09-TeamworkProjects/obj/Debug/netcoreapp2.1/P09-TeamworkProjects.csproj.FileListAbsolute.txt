@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P09-TeamworkProjects\bin\Debug\netcoreapp2.1\P09-TeamworkProjects.deps.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P09-TeamworkProjects\bin\Debug\netcoreapp2.1\P09-TeamworkProjects.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P09-TeamworkProjects\bin\Debug\netcoreapp2.1\P09-TeamworkProjects.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P09-TeamworkProjects\bin\Debug\netcoreapp2.1\P09-TeamworkProjects.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P09-TeamworkProjects\bin\Debug\netcoreapp2.1\P09-TeamworkProjects.pdb
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P09-TeamworkProjects\obj\Debug\netcoreapp2.1\P09-TeamworkProjects.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P09-TeamworkProjects\obj\Debug\netcoreapp2.1\P09-TeamworkProjects.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P09-TeamworkProjects\obj\Debug\netcoreapp2.1\P09-TeamworkProjects.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P09-TeamworkProjects\obj\Debug\netcoreapp2.1\P09-TeamworkProjects.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P09-TeamworkProjects\obj\Debug\netcoreapp2.1\P09-TeamworkProjects.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P09-TeamworkProjects\obj\Debug\netcoreapp2.1\P09-TeamworkProjects.pdb

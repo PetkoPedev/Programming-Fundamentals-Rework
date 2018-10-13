@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P10-StudentGroups\bin\Debug\netcoreapp2.1\P10-StudentGroups.deps.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P10-StudentGroups\bin\Debug\netcoreapp2.1\P10-StudentGroups.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P10-StudentGroups\bin\Debug\netcoreapp2.1\P10-StudentGroups.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P10-StudentGroups\bin\Debug\netcoreapp2.1\P10-StudentGroups.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P10-StudentGroups\bin\Debug\netcoreapp2.1\P10-StudentGroups.pdb
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P10-StudentGroups\obj\Debug\netcoreapp2.1\P10-StudentGroups.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P10-StudentGroups\obj\Debug\netcoreapp2.1\P10-StudentGroups.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P10-StudentGroups\obj\Debug\netcoreapp2.1\P10-StudentGroups.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P10-StudentGroups\obj\Debug\netcoreapp2.1\P10-StudentGroups.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P10-StudentGroups\obj\Debug\netcoreapp2.1\P10-StudentGroups.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P10-StudentGroups\obj\Debug\netcoreapp2.1\P10-StudentGroups.pdb

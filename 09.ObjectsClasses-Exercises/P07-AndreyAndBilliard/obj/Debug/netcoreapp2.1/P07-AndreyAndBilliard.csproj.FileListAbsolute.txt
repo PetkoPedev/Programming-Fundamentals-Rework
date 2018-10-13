@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P07-AndreyAndBilliard\bin\Debug\netcoreapp2.1\P07-AndreyAndBilliard.deps.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P07-AndreyAndBilliard\bin\Debug\netcoreapp2.1\P07-AndreyAndBilliard.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P07-AndreyAndBilliard\bin\Debug\netcoreapp2.1\P07-AndreyAndBilliard.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P07-AndreyAndBilliard\bin\Debug\netcoreapp2.1\P07-AndreyAndBilliard.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P07-AndreyAndBilliard\bin\Debug\netcoreapp2.1\P07-AndreyAndBilliard.pdb
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P07-AndreyAndBilliard\obj\Debug\netcoreapp2.1\P07-AndreyAndBilliard.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P07-AndreyAndBilliard\obj\Debug\netcoreapp2.1\P07-AndreyAndBilliard.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P07-AndreyAndBilliard\obj\Debug\netcoreapp2.1\P07-AndreyAndBilliard.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P07-AndreyAndBilliard\obj\Debug\netcoreapp2.1\P07-AndreyAndBilliard.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P07-AndreyAndBilliard\obj\Debug\netcoreapp2.1\P07-AndreyAndBilliard.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\09.ObjectsClasses-Exercises\P07-AndreyAndBilliard\obj\Debug\netcoreapp2.1\P07-AndreyAndBilliard.pdb
