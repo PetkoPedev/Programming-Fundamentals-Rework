@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\11.StringsAndText-Lab\P04-Palindromes\bin\Debug\netcoreapp2.1\P04-Palindromes.deps.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\11.StringsAndText-Lab\P04-Palindromes\bin\Debug\netcoreapp2.1\P04-Palindromes.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\11.StringsAndText-Lab\P04-Palindromes\bin\Debug\netcoreapp2.1\P04-Palindromes.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\11.StringsAndText-Lab\P04-Palindromes\bin\Debug\netcoreapp2.1\P04-Palindromes.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\11.StringsAndText-Lab\P04-Palindromes\bin\Debug\netcoreapp2.1\P04-Palindromes.pdb
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\11.StringsAndText-Lab\P04-Palindromes\obj\Debug\netcoreapp2.1\P04-Palindromes.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\11.StringsAndText-Lab\P04-Palindromes\obj\Debug\netcoreapp2.1\P04-Palindromes.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\11.StringsAndText-Lab\P04-Palindromes\obj\Debug\netcoreapp2.1\P04-Palindromes.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\11.StringsAndText-Lab\P04-Palindromes\obj\Debug\netcoreapp2.1\P04-Palindromes.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\11.StringsAndText-Lab\P04-Palindromes\obj\Debug\netcoreapp2.1\P04-Palindromes.pdb

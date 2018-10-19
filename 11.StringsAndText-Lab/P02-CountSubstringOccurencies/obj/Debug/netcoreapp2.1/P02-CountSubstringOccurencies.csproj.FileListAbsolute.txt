@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\11.StringsAndText-Lab\P02-CountSubstringOccurencies\bin\Debug\netcoreapp2.1\P02-CountSubstringOccurencies.deps.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\11.StringsAndText-Lab\P02-CountSubstringOccurencies\bin\Debug\netcoreapp2.1\P02-CountSubstringOccurencies.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\11.StringsAndText-Lab\P02-CountSubstringOccurencies\bin\Debug\netcoreapp2.1\P02-CountSubstringOccurencies.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\11.StringsAndText-Lab\P02-CountSubstringOccurencies\bin\Debug\netcoreapp2.1\P02-CountSubstringOccurencies.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\11.StringsAndText-Lab\P02-CountSubstringOccurencies\bin\Debug\netcoreapp2.1\P02-CountSubstringOccurencies.pdb
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\11.StringsAndText-Lab\P02-CountSubstringOccurencies\obj\Debug\netcoreapp2.1\P02-CountSubstringOccurencies.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\11.StringsAndText-Lab\P02-CountSubstringOccurencies\obj\Debug\netcoreapp2.1\P02-CountSubstringOccurencies.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\11.StringsAndText-Lab\P02-CountSubstringOccurencies\obj\Debug\netcoreapp2.1\P02-CountSubstringOccurencies.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\11.StringsAndText-Lab\P02-CountSubstringOccurencies\obj\Debug\netcoreapp2.1\P02-CountSubstringOccurencies.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\11.StringsAndText-Lab\P02-CountSubstringOccurencies\obj\Debug\netcoreapp2.1\P02-CountSubstringOccurencies.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\11.StringsAndText-Lab\P02-CountSubstringOccurencies\obj\Debug\netcoreapp2.1\P02-CountSubstringOccurencies.pdb

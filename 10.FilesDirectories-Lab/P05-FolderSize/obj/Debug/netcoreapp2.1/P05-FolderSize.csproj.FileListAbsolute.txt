@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\10.FilesDirectories-Lab\P05-FolderSize\bin\Debug\netcoreapp2.1\P05-FolderSize.deps.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\10.FilesDirectories-Lab\P05-FolderSize\bin\Debug\netcoreapp2.1\P05-FolderSize.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\10.FilesDirectories-Lab\P05-FolderSize\bin\Debug\netcoreapp2.1\P05-FolderSize.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\10.FilesDirectories-Lab\P05-FolderSize\bin\Debug\netcoreapp2.1\P05-FolderSize.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\10.FilesDirectories-Lab\P05-FolderSize\bin\Debug\netcoreapp2.1\P05-FolderSize.pdb
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\10.FilesDirectories-Lab\P05-FolderSize\obj\Debug\netcoreapp2.1\P05-FolderSize.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\10.FilesDirectories-Lab\P05-FolderSize\obj\Debug\netcoreapp2.1\P05-FolderSize.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\10.FilesDirectories-Lab\P05-FolderSize\obj\Debug\netcoreapp2.1\P05-FolderSize.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\10.FilesDirectories-Lab\P05-FolderSize\obj\Debug\netcoreapp2.1\P05-FolderSize.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\10.FilesDirectories-Lab\P05-FolderSize\obj\Debug\netcoreapp2.1\P05-FolderSize.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\10.FilesDirectories-Lab\P05-FolderSize\obj\Debug\netcoreapp2.1\P05-FolderSize.pdb

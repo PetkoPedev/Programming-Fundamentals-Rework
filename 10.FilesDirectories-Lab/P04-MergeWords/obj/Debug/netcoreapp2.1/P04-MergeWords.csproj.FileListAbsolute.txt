@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\10.FilesDirectories-Lab\P04-MergeWords\bin\Debug\netcoreapp2.1\P04-MergeWords.deps.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\10.FilesDirectories-Lab\P04-MergeWords\bin\Debug\netcoreapp2.1\P04-MergeWords.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\10.FilesDirectories-Lab\P04-MergeWords\bin\Debug\netcoreapp2.1\P04-MergeWords.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\10.FilesDirectories-Lab\P04-MergeWords\bin\Debug\netcoreapp2.1\P04-MergeWords.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\10.FilesDirectories-Lab\P04-MergeWords\bin\Debug\netcoreapp2.1\P04-MergeWords.pdb
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\10.FilesDirectories-Lab\P04-MergeWords\obj\Debug\netcoreapp2.1\P04-MergeWords.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\10.FilesDirectories-Lab\P04-MergeWords\obj\Debug\netcoreapp2.1\P04-MergeWords.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\10.FilesDirectories-Lab\P04-MergeWords\obj\Debug\netcoreapp2.1\P04-MergeWords.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\10.FilesDirectories-Lab\P04-MergeWords\obj\Debug\netcoreapp2.1\P04-MergeWords.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\10.FilesDirectories-Lab\P04-MergeWords\obj\Debug\netcoreapp2.1\P04-MergeWords.pdb
