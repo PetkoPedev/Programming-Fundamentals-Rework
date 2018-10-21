@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\12.Regex-Lab\P04-MatchDates\bin\Debug\netcoreapp2.1\P04-MatchDates.deps.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\12.Regex-Lab\P04-MatchDates\bin\Debug\netcoreapp2.1\P04-MatchDates.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\12.Regex-Lab\P04-MatchDates\bin\Debug\netcoreapp2.1\P04-MatchDates.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\12.Regex-Lab\P04-MatchDates\bin\Debug\netcoreapp2.1\P04-MatchDates.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\12.Regex-Lab\P04-MatchDates\bin\Debug\netcoreapp2.1\P04-MatchDates.pdb
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\12.Regex-Lab\P04-MatchDates\obj\Debug\netcoreapp2.1\P04-MatchDates.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\12.Regex-Lab\P04-MatchDates\obj\Debug\netcoreapp2.1\P04-MatchDates.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\12.Regex-Lab\P04-MatchDates\obj\Debug\netcoreapp2.1\P04-MatchDates.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\12.Regex-Lab\P04-MatchDates\obj\Debug\netcoreapp2.1\P04-MatchDates.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\12.Regex-Lab\P04-MatchDates\obj\Debug\netcoreapp2.1\P04-MatchDates.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\12.Regex-Lab\P04-MatchDates\obj\Debug\netcoreapp2.1\P04-MatchDates.pdb

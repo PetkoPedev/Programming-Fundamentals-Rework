@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\12.Regex-Lab\P03-MatchHexNumbers\bin\Debug\netcoreapp2.1\P03-MatchHexNumbers.deps.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\12.Regex-Lab\P03-MatchHexNumbers\bin\Debug\netcoreapp2.1\P03-MatchHexNumbers.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\12.Regex-Lab\P03-MatchHexNumbers\bin\Debug\netcoreapp2.1\P03-MatchHexNumbers.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\12.Regex-Lab\P03-MatchHexNumbers\bin\Debug\netcoreapp2.1\P03-MatchHexNumbers.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\12.Regex-Lab\P03-MatchHexNumbers\bin\Debug\netcoreapp2.1\P03-MatchHexNumbers.pdb
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\12.Regex-Lab\P03-MatchHexNumbers\obj\Debug\netcoreapp2.1\P03-MatchHexNumbers.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\12.Regex-Lab\P03-MatchHexNumbers\obj\Debug\netcoreapp2.1\P03-MatchHexNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\12.Regex-Lab\P03-MatchHexNumbers\obj\Debug\netcoreapp2.1\P03-MatchHexNumbers.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\12.Regex-Lab\P03-MatchHexNumbers\obj\Debug\netcoreapp2.1\P03-MatchHexNumbers.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\12.Regex-Lab\P03-MatchHexNumbers\obj\Debug\netcoreapp2.1\P03-MatchHexNumbers.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\12.Regex-Lab\P03-MatchHexNumbers\obj\Debug\netcoreapp2.1\P03-MatchHexNumbers.pdb

@@ -1,0 +1,11 @@
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\12.Regex-Lab\P01-MatchFullName\bin\Debug\netcoreapp2.1\P01-MatchFullName.deps.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\12.Regex-Lab\P01-MatchFullName\bin\Debug\netcoreapp2.1\P01-MatchFullName.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\12.Regex-Lab\P01-MatchFullName\bin\Debug\netcoreapp2.1\P01-MatchFullName.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\12.Regex-Lab\P01-MatchFullName\bin\Debug\netcoreapp2.1\P01-MatchFullName.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\12.Regex-Lab\P01-MatchFullName\bin\Debug\netcoreapp2.1\P01-MatchFullName.pdb
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\12.Regex-Lab\P01-MatchFullName\obj\Debug\netcoreapp2.1\P01-MatchFullName.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\12.Regex-Lab\P01-MatchFullName\obj\Debug\netcoreapp2.1\P01-MatchFullName.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\12.Regex-Lab\P01-MatchFullName\obj\Debug\netcoreapp2.1\P01-MatchFullName.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\12.Regex-Lab\P01-MatchFullName\obj\Debug\netcoreapp2.1\P01-MatchFullName.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\12.Regex-Lab\P01-MatchFullName\obj\Debug\netcoreapp2.1\P01-MatchFullName.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\12.Regex-Lab\P01-MatchFullName\obj\Debug\netcoreapp2.1\P01-MatchFullName.pdb

@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\12.Regex-Lab\P06-ReplaceATag\bin\Debug\netcoreapp2.1\P06-ReplaceATag.deps.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\12.Regex-Lab\P06-ReplaceATag\bin\Debug\netcoreapp2.1\P06-ReplaceATag.runtimeconfig.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\12.Regex-Lab\P06-ReplaceATag\bin\Debug\netcoreapp2.1\P06-ReplaceATag.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\12.Regex-Lab\P06-ReplaceATag\bin\Debug\netcoreapp2.1\P06-ReplaceATag.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\12.Regex-Lab\P06-ReplaceATag\bin\Debug\netcoreapp2.1\P06-ReplaceATag.pdb
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\12.Regex-Lab\P06-ReplaceATag\obj\Debug\netcoreapp2.1\P06-ReplaceATag.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\12.Regex-Lab\P06-ReplaceATag\obj\Debug\netcoreapp2.1\P06-ReplaceATag.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\12.Regex-Lab\P06-ReplaceATag\obj\Debug\netcoreapp2.1\P06-ReplaceATag.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\12.Regex-Lab\P06-ReplaceATag\obj\Debug\netcoreapp2.1\P06-ReplaceATag.dll
+C:\Users\Petko Pedev\source\repos\Programming-Fundamentals\Programming-Fundamentals-Rework\12.Regex-Lab\P06-ReplaceATag\obj\Debug\netcoreapp2.1\P06-ReplaceATag.pdb
